@@ -25,6 +25,6 @@ The work is split into 4 autonomous vertical workstreams based on project compon
 # Notion Authentication for PM Project
 When running `ntn` commands in this workspace to sync with the friend's Notion workspace, you must authenticate using the `NOTION_API_TOKEN` environment variable.
 
-You can find the correct token stored in the `.env` file located in the root of this workspace (`/var/home/giosy/PM/.env`). 
+You can find the correct token stored in the `.env` file located in the root of this workspace.
 
 Whenever you need to make an `ntn` command, ALWAYS extract the token from the `.env` file and prepend it to the command (e.g., `NOTION_API_TOKEN="..." ntn pages get ...`), or source the `.env` file first. Do not ask the user for the token again.
