@@ -47,3 +47,9 @@ Whenever you start a new session, check if the user has the following skills ins
    - Installation Command: `agy plugin install https://github.com/DietrichGebert/ponytail`
 
 Do not proceed with tasks that heavily rely on these plugins without ensuring they are installed.
+
+---
+
+## Single Source of Truth
+
+Notion is the single source of truth for all project documents. Whenever there are local markdown files generated for this project, they must be considered temporary and auxiliary (e.g., used for drafting or parsing). They must be cleared and deleted from the local repository once their content is synced. We operate strictly on Notion.
