@@ -1,8 +1,6 @@
 # Notion Clone / PM Project
 
-<aside>
-
-**Project proposal**
+## Project proposal
 
 "BendingForks" (BF), società milanese operante in ambito Finance, attualmente subisce pesanti inefficienze operative dovute alla frammentazione degli strumenti per la gestione documentale.
 
@@ -17,6 +15,3 @@ Questi fattori generano difficoltà nel reperimento delle informazioni e inconsi
 La soluzione da implementare prevede l'integrazione di un sistema Enterprise Content Management (ECM) on-premise o ibrido, arricchito da moduli AI personalizzati per l'automazione della ricerca. Scegliendo di integrare una soluzione di mercato preesistente, si eviterà lo sviluppo di software da zero, concentrando le attività su: selezione e configurazione della piattaforma, addestramento degli Agenti AI, migrazione dei dati e dismissione dei vecchi applicativi.
 
 Il progetto dovrà soddisfare rigidi vincoli di riservatezza, garantendo che i dati finanziari non transitino su modelli **AI pubbici** e presupponendo l’adeguatezza dell’infrastruttura server esistente . Il rischio legato alla limitata disponibilità di tempo della direzione aziendale sarà mitigato istituendo un comitato direttivo (Steering Committee) con riunioni brevi e un referente interno dedicato.
-
-</aside>
-[[Deliverables]]
