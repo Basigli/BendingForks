@@ -1,2 +1,16 @@
 .DS_Store
 .obsidian/
+
+# New setup ignores
+.env
+*.pdf
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wav
+*.mp3
+recordings/
+recordings-audio/
+pm-project-setup.zip
+search_results.json
