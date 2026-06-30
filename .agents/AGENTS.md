@@ -3,8 +3,8 @@
 ## Project Context
 
 - **Course**: Project Management (Università di Bologna, Prof. Marco A. Boschetti).
-- **Project Case**: "BendingForks" (BF) - Integration of an Enterprise Content Management (ECM) system (on-premise or hybrid) with custom AI modules for search automation. 
-- **Goal**: Resolve BF's operational inefficiencies (latency, poor interoperability, long onboarding) while ensuring data privacy (no public AI). 
+- **Project Case**: "BendingForks" (BF) - Integration of an Enterprise Content Management (ECM) system (on-premise or hybrid) with custom AI modules for search automation.
+- **Goal**: Resolve BF's operational inefficiencies (latency, poor interoperability, long onboarding) while ensuring data privacy (no public AI).
 - **Type**: Project Management Simulation (no actual software implementation is required).
 - **Language**: Italian.
 
@@ -33,3 +33,17 @@ When running `ntn` commands in this workspace to sync with the friend's Notion w
 You can find the correct token stored in the `.env` file located in the root of this workspace.
 
 Whenever you need to make an `ntn` command, ALWAYS extract the token from the `.env` file and prepend it to the command (e.g., `NOTION_API_TOKEN="..." ntn pages get ...`), or source the `.env` file first. Do not ask the user for the token again.
+
+---
+
+## Required Global Skills
+
+This project relies on certain global skills and plugins to operate optimally.
+Whenever you start a new session, check if the user has the following skills installed. If they do not, prompt them to run the corresponding installation command:
+
+1. **Humanizer**: Used for refining and humanizing text outputs.
+   - Installation Command: `agy plugin install https://github.com/blader/humanizer`
+2. **Ponytail**: Used for project auditing and review.
+   - Installation Command: `agy plugin install https://github.com/DietrichGebert/ponytail`
+
+Do not proceed with tasks that heavily rely on these plugins without ensuring they are installed.
