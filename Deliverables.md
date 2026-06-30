@@ -7,13 +7,25 @@ allegata. Ci si aspetta di trovare tutti gli aspetti relativi alla fase di:
     - Scoping/Initiating:
         - CoS (Condition of Satisfaction)
         - Acceptance Criteria
-        - Project Scoping Meeting: partecipanti, documentare i meeting prendendo nota del giorno, partecipanti (Project Manager meglio se sia di chi svilupperà sia di chi riceverà la soluzione, Client Gruou → rappresentante del cliente, Core Team Members, facilitatore)
-            - 
+        - Project Scoping Meeting: partecipanti, documentare i meeting prendendo nota del giorno, partecipanti (Project Manager meglio se sia di chi svilupperà sia di chi riceverà la soluzione, Client Group → rappresentante del cliente, Core Team Members, facilitatore)
             - RBS (Requirement Breakdown Structure): raccolta dei requisiti (Functional, Non-Functional, Global, Product/Project Constraints) → alternative alla RBS: User Stories
-            - Scegliere il PMLC (Project Management Life Cycle) model
-            - POS
-    - 
-    - Planning
+            - Scegliere il PMLC (Project Management Life Cycle) model più adatto
+            - POS: descrizione sintetica del progetto contenente una dichiarazione generale che descrive in cosa consiste il progetto, riferimento per il team di pianificazione, aiuto per le decisioni riguardanti il progetto. Contenuto:
+                - Problem/Opportunity
+                - Project Goal
+                - Project Objectives
+                - Success Criteria
+                - Assumptions/Risks/Obstacles
+    - Planning:
+        - Pianificare e condurre JPPS (Joint Project Planning Session)
+        - Scrivere PDS (Project Description Statement)
+        - Costruire WBS (Work Breakdown Structure): Scomposizione del progetto in task e sub-task (es. Analisi fornitori ECM, Setup infrastruttura ibrida, Addestramento agenti AI)
+        - Stimare:
+            - Durata delle attività
+            - fabbisogno delle risorse
+            - costi
+        - Scrivere proposta di progetto efficace
+        - Ottenere approvazione per passare a launch/execution
     - Launching/Execution
     - Monitoring & Controlling
     - Closing
@@ -31,4 +43,4 @@ si è deciso di utilizzare:
     - WBS (Planning)
     - PDS
     - Analisi dei Rischi
-    - Gantt
+    - Gantt (Monitoring)
