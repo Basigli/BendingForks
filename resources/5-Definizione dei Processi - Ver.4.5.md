@@ -1,4 +1,4 @@
-Project Management
+# Project Management
 
 Definizione dei Processi
 
@@ -6,16 +6,15 @@ Marco A. Boschetti
 
 Università di Bologna
 
-Definizione dei Processi
+## Definizione dei Processi
 
 Sommario
-● Definizione dei 5 Gruppi di Processi (Process Groups)
-● Definizione delle 9+1 Aree di Conoscenza (Knowledge Areas)
-● Mappatura delle Aree di Conoscenza nei Gruppi di Processi
 
-2
+- Definizione dei 5 Gruppi di Processi (Process Groups)
+- Definizione delle 9+1 Aree di Conoscenza (Knowledge Areas)
+- Mappatura delle Aree di Conoscenza nei Gruppi di Processi
 
-I 5 Project Management Process Groups
+## I 5 Project Management Process Groups
 
 Scoping/Initiating Process Group
 Sviluppa e ottiene l’approvazione di una “dichiarazione generale” riguardante
@@ -31,10 +30,6 @@ Seleziona il personale da coinvolgere nel team di progetto, stabilisce le regole
 operative del team e aiuta il team a lavorare assieme per completare con
 successo il progetto.
 
-3
-
-I 5 Project Management Process Groups
-
 Monitoring & Controlling Process Group
 Verifica lo “stato di avanzamento del progetto” rispetto al piano e risponde
 alle eventuali richieste di modifica e risolve le situazioni problematiche che
@@ -45,135 +40,120 @@ Assicura che siano stati soddisfatti tutti i requisiti del committente, provvede
 alla “consegna” dei deliverables (il “risultato” del progetto) e decreta la fine
 formale del progetto.
 
-4
-
-Scoping/Initiating Process Group
+## Scoping/Initiating Process Group
 
 “Sviluppa e ottiene l’approvazione di una dichiarazione generale riguardante
 gli obiettivi e il business value del progetto.”
 I processi consentono di:
-● Ottenere dal cliente l’indicazione dei suoi veri bisogni;
-● Documentare i bisogni del cliente;
-● Negoziare con il cliente le modalità con cui dovranno essere soddisfatti i
+
+- Ottenere dal cliente l’indicazione dei suoi veri bisogni;
+- Documentare i bisogni del cliente;
+- Negoziare con il cliente le modalità con cui dovranno essere soddisfatti i
 
 suoi bisogni;
 
-● Scrivere “una pagina” di descrizione del progetto (i.e., una descrizione
+- Scrivere “una pagina” di descrizione del progetto (i.e., una descrizione
 
 sintetica del progetto);
 
-● Ottenere l’approvazione del progetto da parte del senior management.
+- Ottenere l’approvazione del progetto da parte del senior management.
 
-5
-
-Planning Process Group
+## Planning Process Group
 
 “Identifica le attività che devono essere svolte per implementare i requisiti e
 completare il progetto, stima il tempo, i costi e le risorse necessarie e ottiene
 l’approvazione del piano.”
 I processi consentono di:
-● Definire tutte le attività del progetto;
-● Stimare i tempi di esecuzione di ciascuna attività;
-● Stimare le risorse necessarie per completare ciascuna attività;
-● Stimare il costo totale delle attività;
-● Sequenziare le attività;
-● Costruire la “schedula” iniziale del progetto;
-● Analizzare e correggere la schedula del progetto;
-● Scrivere il piano di gestione del rischio;
-● Documentare il piano;
-● Ottenere l’approvazione del senior management per eseguire il progetto.
 
-6
+- Definire tutte le attività del progetto;
+- Stimare i tempi di esecuzione di ciascuna attività;
+- Stimare le risorse necessarie per completare ciascuna attività;
+- Stimare il costo totale delle attività;
+- Sequenziare le attività;
+- Costruire la “schedula” iniziale del progetto;
+- Analizzare e correggere la schedula del progetto;
+- Scrivere il piano di gestione del rischio;
+- Documentare il piano;
+- Ottenere l’approvazione del senior management per eseguire il progetto.
 
-Launching/Executing Process Group
+## Launching/Executing Process Group
 
 “Seleziona il personale da coinvolgere nel team di progetto, stabilisce le
 regole operative del team e aiuta il team a lavorare assieme per completare
 con successo il progetto.”
 I processi consentono di:
-● Reclutare i membri del team di progetto;
-● Completare il “Project Description Document” seguendo un template
+
+- Reclutare i membri del team di progetto;
+- Completare il “Project Description Document” seguendo un template
 predefinito, che potrebbe corrispondere anche a più “documenti” di
 natura eterogenea;
 
-● Stabilire le regole operative per il team;
-● Stabilire il processo per la gestione del cambiamento dello scope;
-● Gestire le comunicazioni del team;
-● Finalizzare la schedula del progetto;
-● Finalizzare i “work packages” (i.e., componenti in cui è decomposto il
+- Stabilire le regole operative per il team;
+- Stabilire il processo per la gestione del cambiamento dello scope;
+- Gestire le comunicazioni del team;
+- Finalizzare la schedula del progetto;
+- Finalizzare i “work packages” (i.e., componenti in cui è decomposto il
 
 lavoro da svolgere).
 
-7
-
-Monitoring & Controlling Process Group
+## Monitoring & Controlling Process Group
 
 “Verifica lo “stato di avanzamento del progetto” rispetto al piano e risponde
 alle eventuali  richieste di modifica e risolve le situazioni problematiche che
 emergono durante il progetto per garantirne il progresso e il successo.”
 I processi consentono di:
-● Stabilire quali performance del progetto sono di interesse;
-● Stabilire il sistema di reporting (reporting system);
-● Monitorare le performance del progetto;
-● Monitorare il rischio;
-● Rendicontare lo stato del progetto;
-● Elaborare le richieste di modifica dello scope;
-● Scoprire e risolvere i problemi.
 
-8
+- Stabilire quali performance del progetto sono di interesse;
+- Stabilire il sistema di reporting (reporting system);
+- Monitorare le performance del progetto;
+- Monitorare il rischio;
+- Rendicontare lo stato del progetto;
+- Elaborare le richieste di modifica dello scope;
+- Scoprire e risolvere i problemi.
 
-Closing Process Group
+## Closing Process Group
 
 “Assicura che siano stati soddisfatti tutti i requisiti del committente, provvede
 alla “consegna” dei deliverables (il “risultato” del progetto) e decreta la fine
 formale del progetto.”
 I processi consentono di:
-● Pianificare ed eseguire l’installazione/consegna dei deliverables;
-● Ottenere l’approvazione del committente per quanto riguarda il
+
+- Pianificare ed eseguire l’installazione/consegna dei deliverables;
+- Ottenere l’approvazione del committente per quanto riguarda il
 
 soddisfacimento dei requisiti del progetto;
 
-● Scrivere il rapporto finale del progetto;
-● Condurre una verifica post-implementazione del progetto (post-
+- Scrivere il rapporto finale del progetto;
+- Condurre una verifica post-implementazione del progetto (post-
 
 implementation audit, retrospettiva).
 
-9
+## Project Management Life Cycle (PMLC)
 
-Project Management Life Cycle (PMLC)
-
-● Contrariamente a quanto si potrebbe pensare i “process group” non
+- Contrariamente a quanto si potrebbe pensare i “process group” non
 
 corrispondono al Project Management Life Cycle (PMLC).
 
-● I process group possono essere mappati in diverse modalità dando
+- I process group possono essere mappati in diverse modalità dando
 origine a dei PMLC, che possono essere anche articolati e complessi.
-● I process group non sono partizionati e sequenziali rispetto al tempo,
+- I process group non sono partizionati e sequenziali rispetto al tempo,
 ma spesso processi appartenenti a process group diversi coesistono e
 interagiscono durante il ciclo di vita del progetto.
 
-● I processi per gestire un progetto di sviluppo software devono essere
+- I processi per gestire un progetto di sviluppo software devono essere
 
 strettamente correlati con i processi di produzione della soluzione, che
 partono dall’ideazione e arrivano al deployment.
 
-10
+## Fasi di un progetto di sviluppo software
 
-Project Management Life Cycle (PMLC)
+## Le 9+1 Project Management Knowledge Areas
 
-11
-
-Fasi di un progetto di sviluppo software
-
-12
-
-Le 9+1 Project Management Knowledge Areas
-
-● Le aree di conoscenza definiscono delle aree di specializzazione dei
+- Le aree di conoscenza definiscono delle aree di specializzazione dei
 
 processi di gestione di un progetto.
 
-● PMBOK individua le seguenti 9+1 aree di conoscenza:
+- PMBOK individua le seguenti 9+1 aree di conoscenza:
 
 Integration Management
 1.
@@ -191,25 +171,22 @@ Time Management
 
 Procurement Management
 
-13
-
-Integration Management
+## Integration Management
 
 La gestione dell’integrazione riguarda i processi che consentono di effettuare
 il collegamento tra i diversi deliverables, che integrati tra loro forniscono la
 soluzione del progetto.
 I processi coinvolti sono:
-● Sviluppo del Project Overview Statement;
-● Sviluppo del Scope Statement;
-● Sviluppo del Project Plan;
-● Avvio dell’implementazione (esecuzione);
-● Monitoraggio e controllo del lavoro svolto nel progetto;
-● Controllo integrato dei cambiamenti;
-● Chiusura del progetto.
 
-14
+- Sviluppo del Project Overview Statement;
+- Sviluppo del Scope Statement;
+- Sviluppo del Project Plan;
+- Avvio dell’implementazione (esecuzione);
+- Monitoraggio e controllo del lavoro svolto nel progetto;
+- Controllo integrato dei cambiamenti;
+- Chiusura del progetto.
 
-Scope Management
+## Scope Management
 
 Desideri del Cliente vs Bisogni del Cliente
 
@@ -218,10 +195,6 @@ Bisogni
 Desideri
 
 “Cosa il cliente vuole può non essere ciò di cui il cliente ha bisogno.”
-
-15
-
-Scope Management
 
 Conditions of Satisfaction
 
@@ -237,10 +210,6 @@ Response
 
 Negotiate agreement and
 write Project Overview Statement
-
-16
-
-Scope Management
 
 Requirements Breakdown Structure (RBS)
 
@@ -302,117 +271,101 @@ n.3.3
 Feature
 n.3.4
 
-17
-
-Time Management
+## Time Management
 
 Duration and Labor
 
-18
-
-2468102468101214161820L = DLaborDurationL = .75D33% unplanned         interruptionsMODEL ASSUMPTIONS*Individuals work at 75 percent efficiency rate.*Unplanned interruptions account for 33 percent of clock time.Time Management
+## 2468102468101214161820L = DLaborDurationL = .75D33% unplanned         interruptionsMODEL ASSUMPTIONS*Individuals work at 75 percent efficiency rate.*Unplanned interruptions account for 33 percent of clock time.Time Management
 
 Estimate Task Duration
 
 Per stimare correttamente la durata delle attività si considerano i seguenti
 aspetti:
-● Somiglianze con altre attività
-● Dati storici
-● Pareri di esperti
-● Delphi technique
-● Three-point technique
-● Wide-band Delphi technique
+
+- Somiglianze con altre attività
+- Dati storici
+- Pareri di esperti
+- Delphi technique
+- Three-point technique
+- Wide-band Delphi technique
 
 NOTA: Per stimare la durata di una attività è necessario definire quante
 risorse saranno allocate all’attività e stimare il tempo/uomo richiesto a
 ciascuna risorsa per eseguire l’attività.
 
-19
+## Cost Management
 
-Cost Management
-
-● I processi di gestione dei costi devono essere applicati sia durante la
+- I processi di gestione dei costi devono essere applicati sia durante la
 
 pianificazione che durante l’esecuzione.
 
-● Durante la pianificazione è necessario stimare i costi per definire il
+- Durante la pianificazione è necessario stimare i costi per definire il
 
 budget e mappare i costi sulle attività di progetto.
 
-● Durante l’esecuzione è necessario monitorare e controllare i costi per
+- Durante l’esecuzione è necessario monitorare e controllare i costi per
 
 rilevare e gestire le variazioni rispetto alle stime.
 
-● Le principali voci di costo sono le seguenti:
+- Le principali voci di costo sono le seguenti:
 
-● Costo della manodopera:
+- Costo della manodopera:
 
-● Costo dovuto alla posizione;
-● Costo del singolo lavoratore.
-● Beni strumentali (capital equipment)
-● Servizi appaltati (contracted services)
-● Spese di trasferta
+- Costo dovuto alla posizione;
+- Costo del singolo lavoratore.
+- Beni strumentali (capital equipment)
+- Servizi appaltati (contracted services)
+- Spese di trasferta
 
-20
-
-Quality Management
+## Quality Management
 
 Definizione di Qualità
 
 In un progetto vengono considerati due tipi di qualità:
-● Qualità del prodotto: è riferita alla qualità del deliverable del progetto.
+
+- Qualità del prodotto: è riferita alla qualità del deliverable del progetto.
 Il prodotto/deliverable può essere un bene tangibile come un software,
 ma anche nuovi processi aziendali o altro.
 
-● Qualità del processo: è riferita alla qualità del processo di gestione del
+- Qualità del processo: è riferita alla qualità del processo di gestione del
 progetto. In questo contesto il livello di qualità misura la bontà del
 processo di gestione del progetto.
 
-● La qualità del prodotto e del processo dipende dai seguenti aspetti:
+- La qualità del prodotto e del processo dipende dai seguenti aspetti:
 
-● Quanto il deliverable è adatto all’uso previsto;
-● Quanto il deliverable rispetta gli obiettivi del cliente e aumenta il
+- Quanto il deliverable è adatto all’uso previsto;
+- Quanto il deliverable rispetta gli obiettivi del cliente e aumenta il
 
 business value;
 
-● Se il deliverable è stato consegnato entro il budget e i tempi
+- Se il deliverable è stato consegnato entro il budget e i tempi
 
 prefissati e rispettando le specifiche del committente.
 
-21
-
-Quality Management
-
 La gestione della qualità deve considerare tre processi fondamentali:
 quality planning, quality assurance e quality control.
-
-22
-
-Quality Management
 
 Quality Planning
 
 Determina gli standard di qualità che sono rilevanti per il progetto e cosa è
 necessario fare per soddisfarli. Gli input per questo processo sono:
-● Fattori ambientali esterni: come regole nazionali o internazionali,
+
+- Fattori ambientali esterni: come regole nazionali o internazionali,
 
 standards, linee guida riconosciute, etc.
 
-● Fattori ambientali interni: come le politiche, procedure e linee guida
+- Fattori ambientali interni: come le politiche, procedure e linee guida
 
 aziendali, dati storici, lezioni imparate da progetti passati, etc.
 
-● Project Overview Statement
-● Project Management Plan
+- Project Overview Statement
+- Project Management Plan
 
 Un piano per la qualità (Quality Plan) documenta:
-● Come le politiche (policies) per la qualità devono essere soddisfatte;
-● Le “metriche” che saranno usate per misurare la qualità;
-● Un programma di miglioramento dei processi.
 
-23
-
-Quality Management
+- Come le politiche (policies) per la qualità devono essere soddisfatte;
+- Le “metriche” che saranno usate per misurare la qualità;
+- Un programma di miglioramento dei processi.
 
 Quality Assurance
 
@@ -421,125 +374,106 @@ Contempla le attività necessarie per garantire il rispetto del piano di qualit�
 qualità siano soddisfatti.
 
 La quality assurence può prevedere:
-● Quality Audits (verifica della qualità);
-● Process Analysis (analisi dei processi);
-● Project Quality Management Tools.
 
-24
-
-Quality Management
+- Quality Audits (verifica della qualità);
+- Process Analysis (analisi dei processi);
+- Project Quality Management Tools.
 
 Quality Control
 
-● Prevede il monitoraggio delle “performance”
+- Prevede il monitoraggio delle “performance”
 del progetto per stabilire la conformità agli
 standard di qualità prefissati.
 
-● Definisce le azioni da intraprendere se non vi
+- Definisce le azioni da intraprendere se non vi
 è conformità con alcuni standard di qualità.
 
-● Per eseguire il quality control si possono usare
+- Per eseguire il quality control si possono usare
 templates, processi e strumenti specifici per la
 gestione della qualità.
 
-25
+## Human Resources Management
 
-Human Resources Management
-
-● Il team di progetto può essere organizzato in numerosi modi (e.g., “The
+- Il team di progetto può essere organizzato in numerosi modi (e.g., “The
 
 Surgical Team”, “Scrum Team”, etc.), ma si possono individuare dei profili
 chiave, come per esempio:
-●  Developer co-manager
-●  Client co-manager
-●  Core Team
-●  Task Leaders
-●  Team Members
 
-● Per ogni componente del team devono essere definite con una buona
+- Developer co-manager
+- Client co-manager
+- Core Team
+- Task Leaders
+- Team Members
+
+- Per ogni componente del team devono essere definite con una buona
 
 accuratezza le conoscenze, le abilità e le competenze.
 
-● Che impatto hanno sul progetto i membri del team e le loro conoscenze,
+- Che impatto hanno sul progetto i membri del team e le loro conoscenze,
 
 abilità e competenze?
 
-26
-
-Human Resources Management
-
 Herzberg’s Theory (anche nota come Two-Factor Theory)
-● Motivators
 
-● Realizzazione
-●   Riconoscimento
-●   Progressioni di carriera e crescita professionale
-●   Responsabilità
-●   Il lavoro stesso
+- Motivators
 
-● Hygiene Factors
+- Realizzazione
+- Riconoscimento
+- Progressioni di carriera e crescita professionale
+- Responsabilità
+- Il lavoro stesso
 
-● Politiche aziendali
-●   Pratiche amministrative
-●   Condizioni di lavoro
-●   Supervisione tecnica
-●   Relazioni interpersonali
-●   Sicurezza del lavoro
-●   Salario
+- Hygiene Factors
 
-27
-
-Human Resources Management
+- Politiche aziendali
+- Pratiche amministrative
+- Condizioni di lavoro
+- Supervisione tecnica
+- Relazioni interpersonali
+- Sicurezza del lavoro
+- Salario
 
 Motivating Factors by J. Daniel Couger
-● Da una indagine condotta da J.D. Couger è emerso che un possibile
+
+- Da una indagine condotta da J.D. Couger è emerso che un possibile
 ordine di priorità dei fattori motivazionali poteva essere il seguente:
-●   Il lavoro stesso
-●   Opportunità di realizzazione
-●   Opportunità di progressione di carriera
-●   Salario e benefit
-●   Riconoscimento
-●   Crescente responsabilità
-●   Supervisione tecnica
-●   Relazioni interpersonali
-●   Sicurezza del lavoro
-●   Condizioni di lavoro
-●   Politiche aziendali
-
-28
-
-Human Resources Management
+- Il lavoro stesso
+- Opportunità di realizzazione
+- Opportunità di progressione di carriera
+- Salario e benefit
+- Riconoscimento
+- Crescente responsabilità
+- Supervisione tecnica
+- Relazioni interpersonali
+- Sicurezza del lavoro
+- Condizioni di lavoro
+- Politiche aziendali
 
 Ruolo del Project Manager
 Diversi fattori motivazionali per i membri di un team di progetto sono
 direttamente controllati o influenzati dalle azioni del project manager.
 Tra questi possiamo identificare i seguenti:
-● Challenge
-● Recognition
-● Job Design:
 
-● Skill Variety
-● Task Identity
-● Task Significance
-● Autonomy
-● Feedback
+- Challenge
+- Recognition
+- Job Design:
 
-29
+- Skill Variety
+- Task Identity
+- Task Significance
+- Autonomy
+- Feedback
 
-Communications Management
+## Communications Management
 
 Definizione
 La comunicazione è un processo che consiste nel passaggio di una
 informazione da una persona a un’altra, che la deve comprendere.
 
-● L’informazione deve essere trasmessa correttamente;
-● Un messaggio inviato è un messaggio ricevuto;
-● L’informazione deve essere compresa dal destinatario;
-● L’informazione deve essere accettata dal destinatario.
-
-30
-
-Communications Management
+- L’informazione deve essere trasmessa correttamente;
+- Un messaggio inviato è un messaggio ricevuto;
+- L’informazione deve essere compresa dal destinatario;
+- L’informazione deve essere accettata dal destinatario.
 
 Il processo
 
@@ -564,37 +498,30 @@ Feedback
 
 Receiver
 
-31
-
-Communications Management
-
 Tipi di comunicazioni
-● One-to-one
+
+- One-to-one
 
 Two-way
 
-● Conversazioni (di persona, al telefono, videoconferenza)
-● Riunioni
+- Conversazioni (di persona, al telefono, videoconferenza)
+- Riunioni
 
-● Elettronica
+- Elettronica
 
-● Instant messages
-● E-mails
-● Websites
-● Databases
+- Instant messages
+- E-mails
+- Websites
+- Databases
 
-● Scritta
+- Scritta
 
-● Memos
-● Lettere
-● Documenti
-● Reports
+- Memos
+- Lettere
+- Documenti
+- Reports
 
 One-way
-
-32
-
-Communications Management
 
 Interfacce
 
@@ -616,9 +543,7 @@ Members
 
 Public
 
-33
-
-Risk Management
+## Risk Management
 
 The Life Cycle (ciclo di vita)
 
@@ -631,26 +556,22 @@ risk mitigation
 risk monitoring &
 control
 
-● Quali sono i rischi?
-● Qual è la probabilità di “perdite”
+- Quali sono i rischi?
+- Qual è la probabilità di “perdite”
 
 associate ai rischi?
 
-● Quanto costeranno le perdite?
-● Quali potrebbero essere le perdite
+- Quanto costeranno le perdite?
+- Quali potrebbero essere le perdite
 se si verificasse il caso peggiore?
-● Quali sono le alternative possibili?
-● Come possono essere eliminate o
+- Quali sono le alternative possibili?
+- Come possono essere eliminate o
 
 ridotte le perdite?
 
-● Le possibili alternative comportano
+- Le possibili alternative comportano
 
 degli ulteriori rischi?
-
-34
-
-Risk Management
 
 Risk Identification (identificazione dei rischi)
 
@@ -663,64 +584,52 @@ risk mitigation
 risk monitoring &
 control
 
-● Technical risks
-● Project management risks
-● Organizational risks
-● External risks
+- Technical risks
+- Project management risks
+- Organizational risks
+- External risks
 
-35
+- Technical risks
 
-Risk Management
-
-● Technical risks
-
-● Obiettivi di qualità e prestazioni possono essere condizionati dalla
+- Obiettivi di qualità e prestazioni possono essere condizionati dalla
 
 tecnologia utilizzata e dalla sua modalità d’impiego;
 
-● Adeguatezza, affidabilità, performance e qualità delle tecnologie
+- Adeguatezza, affidabilità, performance e qualità delle tecnologie
 
 impiegate;
 
-● Disponibilità delle tecnologie necessarie e problematiche legate alla
+- Disponibilità delle tecnologie necessarie e problematiche legate alla
 
 complessità d’impiego;
 
-● etc.
+- etc.
 
-● Project management risks
+- Project management risks
 
-● Scarsa cura nell’allocazione delle risorse;
-● Struttura di gestione del progetto inadeguata;
-● Inadeguata pianificazione, inesperienza e indisciplina;
-● etc.
+- Scarsa cura nell’allocazione delle risorse;
+- Struttura di gestione del progetto inadeguata;
+- Inadeguata pianificazione, inesperienza e indisciplina;
+- etc.
 
-36
+- Organizational risks
 
-Risk Management
-
-● Organizational risks
-
-● Problemi di sostenibilità e di definizione delle priorità;
-● Finanziamenti e/o risorse assegnate inadeguate o sospese;
-● Conflitti con altri progetti attivi;
-● Politiche aziendali che non supportano adeguatamente una gestione
+- Problemi di sostenibilità e di definizione delle priorità;
+- Finanziamenti e/o risorse assegnate inadeguate o sospese;
+- Conflitti con altri progetti attivi;
+- Politiche aziendali che non supportano adeguatamente una gestione
 
 efficiente;
 
-● etc.
+- etc.
 
-● External risks
+- External risks
 
-● Modifica di requisiti legali e normativi;
-● Congiuntura economica negativa, scioperi, etc.;
-● Problemi con fornitori, appalti esterni, etc.;
-● Deliverables forniti da team esterni all’organizzazione;
-● etc.
-
-37
-
-Risk Management
+- Modifica di requisiti legali e normativi;
+- Congiuntura economica negativa, scioperi, etc.;
+- Problemi con fornitori, appalti esterni, etc.;
+- Deliverables forniti da team esterni all’organizzazione;
+- etc.
 
 Risk Assessment (valutazione dei rischi)
 
@@ -733,64 +642,52 @@ risk mitigation
 risk monitoring &
 control
 
-● Qual è la probabilità di perdite
+- Qual è la probabilità di perdite
 associata a ciascun rischio?
-● Quanto costeranno le perdite?
-● Quali potrebbero essere le perdite
+- Quanto costeranno le perdite?
+- Quali potrebbero essere le perdite
 se si verificasse il caso peggiore?
-
-38
-
-Risk Management
 
 Risks Assessment
 
-● Dopo aver identificato i rischi è necessario valutare la probabilità che
+- Dopo aver identificato i rischi è necessario valutare la probabilità che
 
 l’evento avverso associato si verifichi e l’impatto sul progetto.
 
-● Gli eventi che possono avere un impatto negativo sul progetto, che sono
+- Gli eventi che possono avere un impatto negativo sul progetto, che sono
 
 stati identificati, costituiscono i cosiddetti risk drivers.
 
-● I risk drivers possono essere prioritizzati in base al loro “impatto atteso”
+- I risk drivers possono essere prioritizzati in base al loro “impatto atteso”
 che può essere valutato moltiplicando la probabilità che si verifichi
 l’evento per l’impatto effettivo.
 
-● Un evento che ha la probabilità dell’1% e produce una perdita di 50.000
+- Un evento che ha la probabilità dell’1% e produce una perdita di 50.000
 
 Euro ha un impatto atteso di 0.0150.000=500 Euro.
 
-● Se un rischio ha un impatto atteso irrilevante può essere ignorato.
+- Se un rischio ha un impatto atteso irrilevante può essere ignorato.
 
-● Se un evento è certo, non ha senso gestire il corrispondente rischio,
+- Se un evento è certo, non ha senso gestire il corrispondente rischio,
 
 perché se non c’è probabilità, allora non c’è rischio.
 
-39
-
-Risk Management
-
 Risks Assessment Statico
 
-● La valutazione viene svolta all’inizio del progetto durante il planning.
+- La valutazione viene svolta all’inizio del progetto durante il planning.
 
 Risks Assessment Dinamico
 
-● La valutazione svolta durante il planning viene aggiornata durante
+- La valutazione svolta durante il planning viene aggiornata durante
 
 l’avanzamento del progetto.
 
-● Man mano che le attività vengono eseguite e il progetto avanza si
+- Man mano che le attività vengono eseguite e il progetto avanza si
 
 acquisiscono nuove informazioni che possono essere utilizzate nella
 stima della probabilità e dell’impatto di ciascun rischio.
 
-● L’approccio dinamico consente una gestione migliore del rischio.
-
-40
-
-Risk Management
+- L’approccio dinamico consente una gestione migliore del rischio.
 
 Risk Matrix Tool (un template semplificato)
 
@@ -819,10 +716,6 @@ Organizational
 
 External
 
-41
-
-Risk Management
-
 Risk Identification & Assessment: template
 
 Risk
@@ -836,7 +729,7 @@ Tech
 Scope
 
 Event
-#
+\#
 
 TS01
 
@@ -956,15 +849,9 @@ PQ01
 
 Inaccurate assumption
 
-42
-
-Risk Management
-
 Qualitative Risk Assessment: Risk Matrix
 
-43
-
-ProbabilityLossLLMMHHIgnoreConsiderTake ActionRisk Management
+## ProbabilityLossLLMMHHIgnoreConsiderTake ActionRisk Management
 
 Quantitative Risk Assessment Worksheet
 
@@ -976,22 +863,20 @@ Metric: 1-3
 
 Some organizations use a 1-5, or 1-10 metric
 
-44
-
-Risk Management
+## Risk Management
 
 Risk Mitigation (mitigazione del rischio)
 
 risk identification
 
-● Quali sono le alternative possibili?
-● Le possibili alternative comportano
+- Quali sono le alternative possibili?
+- Le possibili alternative comportano
 
 degli ulteriori rischi?
 
 risk assessment
 
-● Come possono essere eliminate o
+- Come possono essere eliminate o
 
 risk mitigation
 
@@ -1000,40 +885,32 @@ control
 
 ridotte le perdite?
 
-● Accept
-● Avoid
-● Contingency planning
-● Mitigate
-● Transfer
+- Accept
+- Avoid
+- Contingency planning
+- Mitigate
+- Transfer
 
-45
-
-Risk Management
-
-● Accept: Non c’è nulla che possa essere fatto per mitigare il rischio.
+- Accept: Non c’è nulla che possa essere fatto per mitigare il rischio.
 
 L’unica opzione disponibile è accettare il rischio e sperare che non si
 verifichi l’evento associato.
 
-● Avoid: Il piano del progetto può essere modificato per eliminare la
+- Avoid: Il piano del progetto può essere modificato per eliminare la
 
 situazione che produce il rischio.
 
-● Contingency planning: Stabilisce cosa deve essere fatto (in futuro) se
+- Contingency planning: Stabilisce cosa deve essere fatto (in futuro) se
 
 l’evento avverso si verifica.
 
-● Mitigate: Stabilisce cosa deve essere fatto (subito) per minimizzare
+- Mitigate: Stabilisce cosa deve essere fatto (subito) per minimizzare
 
 l’impatto dell’evento avverso se si verifica.
 
-● Transfer: Consiste nel trasferire ad altri l’impatto dell’evento avverso
+- Transfer: Consiste nel trasferire ad altri l’impatto dell’evento avverso
 
 (e.g., polizze assicurative, ricorso a conto terzi, etc.).
-
-46
-
-Risk Management
 
 Risk Monitoring & Control (monitoraggio e controllo)
 
@@ -1046,11 +923,7 @@ risk mitigation
 risk monitoring &
 control
 
-● Risk Log
-
-47
-
-Risk Management
+- Risk Log
 
 Risk Log Entry
 
@@ -1070,9 +943,7 @@ Taken
 
 Outcome
 
-48
-
-Procurement Management
+## Procurement Management
 
 The Life Cycle (ciclo di vita)
 
@@ -1091,10 +962,6 @@ Contracting
 Vendor
 Management
 
-49
-
-Procurement Management
-
 Procurement Management Life Cycle
 
 Vendor
@@ -1112,90 +979,76 @@ Contracting
 Vendor
 Management
 
-● Sviluppare la RBS
-● Decidere di utilizzare una “terza parte” (vendor)
-● Identificare i potenziali vendors (fornitori)
-● Selezionare il Procurement Management Team (PMT)
-● Determinare la “vendor relationship”
-● Determinare la “acquisition strategy”
-● Stabilire i criteri per valutare le offerte dei vendor
-● Sviluppare i processi di gestione dei contratti
-● Preparare e distribuire il Request for Proposal (RFP)
-● Rispondere alle domande dei vendors
-
-50
-
-Procurement Management
+- Sviluppare la RBS
+- Decidere di utilizzare una “terza parte” (vendor)
+- Identificare i potenziali vendors (fornitori)
+- Selezionare il Procurement Management Team (PMT)
+- Determinare la “vendor relationship”
+- Determinare la “acquisition strategy”
+- Stabilire i criteri per valutare le offerte dei vendor
+- Sviluppare i processi di gestione dei contratti
+- Preparare e distribuire il Request for Proposal (RFP)
+- Rispondere alle domande dei vendors
 
 Vendor Sollecitation: Request for Proposal (RFP)
 
 Il Request for Proposal (RFP) è un documento che deve essere inviato ai
 vendors (fornitori) che potrebbero essere interessati.
-● Contiene tutti dettagli necessari ai vendors per comprendere se possono
+
+- Contiene tutti dettagli necessari ai vendors per comprendere se possono
 
 soddisfare le richieste.
 
-● L’RFP deve essere molto chiaro in modo da permettere a ciascun vendor
+- L’RFP deve essere molto chiaro in modo da permettere a ciascun vendor
 
 di rispondere velocemente ed efficacemente.
 
-● Solitamente è preparato dal Procurement Office (ufficio acquisti) ed è
+- Solitamente è preparato dal Procurement Office (ufficio acquisti) ed è
 supervisionato da un ufficio legale, perché può costituire la base per il
 futuro contratto.
 
-● Nella stesura del RFP bisogna considerare anche tutti gli aspetti che
+- Nella stesura del RFP bisogna considerare anche tutti gli aspetti che
 
 potrebbero stimolare/invogliare i vendors a partecipare alla selezione.
 Termini troppo stretti o condizioni poco convenienti per la controparte
 potrebbero scoraggiare la partecipazione. Perché lo vogliamo evitare?
 
-51
-
-Procurement Management
-
 Vendor Sollecitation: contenuto del Request for Proposal (RFP)
 
 Il Request for Proposal (RFP) deve contenere le seguenti informazioni:
-● Introduzione
-● Business profile
-● Descrizione del problema/opportunità
-● Project Overview Statement (POS) e/o RBS (opzionali)
-● Stime dei costi, dei tempi e del prezzo previsto (ordine di grandezza)
-● Criteri utilizzati per valutare le offerte in fase di selezione
-● Descrizione delle responsabilità del vendor
-● Dettagli amministrativi del contratto
-● Istruzioni per i vendors
-● Riferimenti e contatti per i vendors
 
-52
-
-Procurement Management
+- Introduzione
+- Business profile
+- Descrizione del problema/opportunità
+- Project Overview Statement (POS) e/o RBS (opzionali)
+- Stime dei costi, dei tempi e del prezzo previsto (ordine di grandezza)
+- Criteri utilizzati per valutare le offerte in fase di selezione
+- Descrizione delle responsabilità del vendor
+- Dettagli amministrativi del contratto
+- Istruzioni per i vendors
+- Riferimenti e contatti per i vendors
 
 Vendor Sollecitation: come selezionare i vendors
 
-● Request for Information (RFI): può essere una semplice lettera o un
+- Request for Information (RFI): può essere una semplice lettera o un
 
 vero e proprio questionario da inviare a dei possibili vendors, quando
 non si conosce il mercato di riferimento e quindi si fatica a identificare i
 destinatari del RFP. L’obiettivo è selezionare i vendors che potrebbero
 essere interessati all’offerta di acquisto.
 
-● Pubblicità: si possono usare dei canali specifici (associazioni, web site,
+- Pubblicità: si possono usare dei canali specifici (associazioni, web site,
 
 mailing list, etc.) per pubblicizzare l’opportunità e richiamare l’interesse
 dei vendors.
 
-● Chiedere a fornitori abituali: si possono contattare i vendors con cui si
+- Chiedere a fornitori abituali: si possono contattare i vendors con cui si
 
 è collaborato con successo in passato.
 
-● Fiere o business meeting: può essere molto utile partecipare a fiere o
+- Fiere o business meeting: può essere molto utile partecipare a fiere o
 business meeting del settore di interesse, per conoscere i possibili
 fornitori disponibili sul mercato.
-
-53
-
-Procurement Management
 
 Procurement Management Life Cycle
 
@@ -1214,16 +1067,12 @@ Contracting
 Vendor
 Management
 
-● Valutare i vendors (fornitori)
-● Valutare le risposte all’RFP
-● Ridurre la lista dei possibili fornitori
-● Richiedere delle presentazioni/demo presso il
+- Valutare i vendors (fornitori)
+- Valutare le risposte all’RFP
+- Ridurre la lista dei possibili fornitori
+- Richiedere delle presentazioni/demo presso il
 
 fornitore o suoi clienti (opzionale)
-
-54
-
-Procurement Management
 
 Vendor Evaluation: Valutazione Forced Ranking
 
@@ -1247,223 +1096,23 @@ Sum
 Forced
 Rank
 
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-2
-
-4
-
-6
-
-1
-
-3
-
-5
-
-3
-
-1
-
-2
-
-5
-
-4
-
-6
-
-2
-
-1
-
-5
-
-3
-
-4
-
-6
-
-4
-
-2
-
-5
-
-1
-
-3
-
-6
-
-11
-
-8
-
-18
-
-10
-
-14
-
-23
-
-3
-
-1
-
-6
-
-2
-
-4
-
-6
-
-55
-
-Procurement Management
-
 Vendor Evaluation: Valutazione Paired Comparison
 
-1
+X
 
 X
 
-0
-
-0
-
-1
-
-0
-
-0
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-2
-
-1
+X
 
 X
 
-0
-
-1
-
-0
-
-0
-
-3
-
-1
-
-1
-
 X
-
-1
-
-1
-
-0
-
-4
-
-0
-
-0
-
-0
-
-X
-
-0
-
-0
-
-5
-
-1
-
-1
-
-0
-
-1
-
-X
-
-0
-
-6
-
-1
-
-1
-
-1
-
-1
-
-1
 
 X
 
 SUM
 
 RANK
-
-4
-
-3
-
-1
-
-5
-
-2
-
-0
-
-2
-
-3
-
-5
-
-1
-
-4
-
-6
-
-56
-
-Procurement Management
 
 Procurement Management Life Cycle
 
@@ -1482,38 +1131,35 @@ Contracting
 Vendor
 Management
 
-● Selezionare il vendor “vincitore”
-● L’esito della selezione può essere uno dei
+- Selezionare il vendor “vincitore”
+- L’esito della selezione può essere uno dei
 
 seguenti:
 
-● No Award: nessun vendors soddisfa i
+- No Award: nessun vendors soddisfa i
 
 requisiti minimi (è necessario ripetere la
 procedura dall’inizio o rinunciare);
-● Single Award: è stato selezionato un
+
+- Single Award: è stato selezionato un
 
 fornitore unico;
 
-● Multiple Awards: nessun fornitore poteva
+- Multiple Awards: nessun fornitore poteva
 soddisfare tutti i requisiti, ma due o più
 vendors possono dividersi il lavoro e
 soddisfare i requisiti.
 
-57
-
-Procurement Management
-
 Procurement Management Life Cycle
 
-● La negoziazione del contratto può partire da
+- La negoziazione del contratto può partire da
 
 due possibili situazioni:
 
-● Single Award;
-● Multiple Awards.
+- Single Award;
+- Multiple Awards.
 
-● Negoziazione con il vendor o i vendors dei
+- Negoziazione con il vendor o i vendors dei
 
 termini contrattuali definitivi.
 
@@ -1532,10 +1178,6 @@ Contracting
 Vendor
 Management
 
-58
-
-Procurement Management
-
 Procurement Management Life Cycle
 
 Vendor
@@ -1553,128 +1195,110 @@ Contracting
 Vendor
 Management
 
-● Definire nelle fasi iniziali della collaborazione i
+- Definire nelle fasi iniziali della collaborazione i
 rapporti (anche informali) con il fornitore,
 valutando, stabilendo e accettando le modalità
 di gestione e le aspettative reciproche.
-● Monitorare i progressi e le performance.
-● Eseguire i test per l’accettazione (collaudo).
-● Gestire la transizione tra il fornitore e il cliente
+- Monitorare i progressi e le performance.
+- Eseguire i test per l’accettazione (collaudo).
+- Gestire la transizione tra il fornitore e il cliente
 
 finale.
 
-59
-
-Stakeholder Management
+## Stakeholder Management
 
 Definitions of Stakeholder:
-● Merriam-Webster Online Dictionary: One that has a stake in an enterprise.
+
+- Merriam-Webster Online Dictionary: One that has a stake in an enterprise.
 
 One who is involved in or affected by a course of action.
 
-● The Scrum Primer (Deemer et al. 2010): Someone with an interest in the
+- The Scrum Primer (Deemer et al. 2010): Someone with an interest in the
 
 outcome of a project, either because they have funded it, will use it, or will
 be affected by it.
 
-● A Guide to the Business Analysis Body of Knowledge® (BABOK® Guide,
+- A Guide to the Business Analysis Body of Knowledge® (BABOK® Guide,
 International Institute of Business Analysis): A group or person who has
 interests that may be affected by an initiative or have influence over it.
-● PRINCE2 Glossary of Terms: Any individual, group or organization that can
+- PRINCE2 Glossary of Terms: Any individual, group or organization that can
 affect, be affected by, or perceive itself to be affected by, an initiative
 (programme, project, activity, risk).
 
 Nota: Queste definizioni sono estratte da un articolo pubblicato dal Project
 Management Institute (PMI).
 
-60
-
-Stakeholder Management
-
 Definition of Stakeholder (PMBOK):
-● A stakeholder is an individual, group, or organization who may affect,
+
+- A stakeholder is an individual, group, or organization who may affect,
 be affected by, or perceive itself to be affected by a decision, activity,
 or outcome of a project.
 
 Project Stakeholders:
-● Gli stakeholder includono tutti i membri del team di progetto e tutte le
+
+- Gli stakeholder includono tutti i membri del team di progetto e tutte le
 “entità” interne ed esterne all’organizzazione interessate al risultato del
 Progetto.
 
-● Il team di progetto identifica gli stakeholder interni ed esterni, sia quelli
+- Il team di progetto identifica gli stakeholder interni ed esterni, sia quelli
 positivi che negativi, con cui collaborerà per determinare i requisiti del
 progetto e le aspettative di tutte le parti coinvolte.
 
-● Il project manager dovrebbe gestire l’influenza dei vari stakeholder sui
+- Il project manager dovrebbe gestire l’influenza dei vari stakeholder sui
 requisiti del progetto per garantire un completamento con successo.
 
-61
-
-Stakeholder Management
-
-● L’area di conoscenza “Stakeholder Management” è stata introdotta da
+- L’area di conoscenza “Stakeholder Management” è stata introdotta da
 
 PMBOK 5a edizione.
 
-● Alcuni processi inclusi in questa area di conoscenza non sono nuovi ed
+- Alcuni processi inclusi in questa area di conoscenza non sono nuovi ed
 erano già previsti da PMBOK 4a edizione, ma erano inclusi nell’area
 Communications Management.
 
-● Proponendo questa nuova area di conoscenza si è voluto rafforzare
+- Proponendo questa nuova area di conoscenza si è voluto rafforzare
 
 l’importanza dei processi di gestione degli stakeholder.
 
-● In PMBOK 5a edizione si sottolinea l’importanza del coinvolgimento
+- In PMBOK 5a edizione si sottolinea l’importanza del coinvolgimento
 
 degli stakeholder durante l’intera durata del progetto. (Cosa ricorda?)
 
-● Il coinvolgimento non si deve limitare alla semplice comunicazione
+- Il coinvolgimento non si deve limitare alla semplice comunicazione
 dello stato di avanzamento del progetto, ma deve prevedere una
 partecipazione attiva e costante degli stakeholder durante l’intero
 progetto.
 
-62
-
-Stakeholder Management
-
-● PMBOK 4a edizione prevedeva due processi nell’area di conoscenza
+- PMBOK 4a edizione prevedeva due processi nell’area di conoscenza
 
 Communications Management:
-● Identify Stakeholders
-● Manage Stakeholder Expectations
 
-● PMBOK 5a edizione prevede quattro processi:
+- Identify Stakeholders
+- Manage Stakeholder Expectations
 
-● Identify Stakeholders
-● Plan Stakeholder Management
-● Manage Stakeholder Engagement
-● Control Stakeholder Engagement
+- PMBOK 5a edizione prevede quattro processi:
 
-63
+- Identify Stakeholders
+- Plan Stakeholder Management
+- Manage Stakeholder Engagement
+- Control Stakeholder Engagement
 
-Stakeholder Management
-
-● Identify Stakeholders: The process of identifying the people, groups, or
+- Identify Stakeholders: The process of identifying the people, groups, or
 organizations that could impact or be impacted by a decision, activity,
 or outcome of the project; and analyzing and documenting relevant
 information regarding their interests, involvement, interdependencies,
 influence, and potential impact on project success.
 
-● Plan Stakeholder Management: The process of developing appropriate
+- Plan Stakeholder Management: The process of developing appropriate
 management strategies to effectively engage stakeholders throughout
 the project life cycle, based on the analysis of their needs, interests,
 and potential impact on project success.
 
-● Manage Stakeholder Engagement: The process of communicating and
+- Manage Stakeholder Engagement: The process of communicating and
 working with stakeholders to meet their needs/expectations, address
 issues as they occur, and foster appropriate stakeholder engagement in
 project activities throughout the project life cycle.
 
-64
-
-Stakeholder Management
-
-● Control Stakeholder Engagement: The process of monitoring overall
+- Control Stakeholder Engagement: The process of monitoring overall
 
 project stakeholder relationships and adjusting strategies and plans for
 engaging stakeholders.
@@ -1693,28 +1317,16 @@ per trarre vantaggio da potenziali “coalizioni” e partnership e aumentare le
 possibilità di successo del progetto. Si consideri che l’influenza dei diversi
 stakeholder può variare durante il progetto.
 
-65
-
-Stakeholder Management
-
 La “visione” di PMBOK 5a edizione
-
-66
-
-Stakeholder Management
 
 Stakeholder Matrix
 
-67
+## Mapping Knowledge Areas to Process Groups
 
-Mapping Knowledge Areas to Process Groups
+## Marco A. Boschetti
 
-68
-
-Marco A. Boschetti
 C.d.S. Ingegneria e Scienze Informatiche
-marco.boschetti@unibo.it
+<marco.boschetti@unibo.it>
 
-https://www.unibo.it/sitoweb/marco.boschetti
-http://isi-personale.csr.unibo.it/marco.boschetti
-
+<https://www.unibo.it/sitoweb/marco.boschetti>
+<http://isi-personale.csr.unibo.it/marco.boschetti>

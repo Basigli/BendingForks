@@ -1,4 +1,4 @@
-Project Management
+# Project Management
 
 Planning Process Group
 
@@ -6,26 +6,25 @@ Marco A. Boschetti
 
 Università di Bologna
 
-Presentazione del Corso
+## Presentazione del Corso
 
 Sommario
-● L’importanza della pianificazione
-● Tools, templates e processi per pianificare un progetto
-● Pianificare e condurre la Joint Project Planning Session (JPPS)
-● Scrivere un Project Description Statement (PDS)
-● Costruire la Work Breakdown Structure (WBS)
-● Stimare la durata delle attività (estimating task duration)
-● Stimare il fabbisogno di risorse (estimating resource requirements)
-● Stimare i costi (estimating cost)
-● Costruire il project network diagram
-● Scrivere una proposta di progetto efficace
-● Ottenere l’approvazione per passare alla fase di esecuzione
+
+- L’importanza della pianificazione
+- Tools, templates e processi per pianificare un progetto
+- Pianificare e condurre la Joint Project Planning Session (JPPS)
+- Scrivere un Project Description Statement (PDS)
+- Costruire la Work Breakdown Structure (WBS)
+- Stimare la durata delle attività (estimating task duration)
+- Stimare il fabbisogno di risorse (estimating resource requirements)
+- Stimare i costi (estimating cost)
+- Costruire il project network diagram
+- Scrivere una proposta di progetto efficace
+- Ottenere l’approvazione per passare alla fase di esecuzione
 
 (launch/execution)
 
-2
-
-L’importanza della pianificazione
+## L’importanza della pianificazione
 
 La “pain curve” descritta da Wysocki
 
@@ -41,125 +40,99 @@ Time
 
 18-36%
 
-3
-
-L’importanza della pianificazione
-
 La pianificazione consente di:
-● Ridurre l’incertezza (Reduces Uncertainty)
-● Aumentare la comprensione (Increases Understanding)
-● Migliorare l’efficienza (Improves Efficiency)
 
-4
+- Ridurre l’incertezza (Reduces Uncertainty)
+- Aumentare la comprensione (Increases Understanding)
+- Migliorare l’efficienza (Improves Efficiency)
 
-Tools, templates e processi per pianificare
+## Tools, templates e processi per pianificare
 
 Software di supporto alla pianificazione
 
-● Sul mercato sono disponibili numerosi software, anche in forma di
+- Sul mercato sono disponibili numerosi software, anche in forma di
 
 soluzioni cloud.
 
-● Alcuni risolvono solo alcuni aspetti, altri cercano di coprire l’intero
+- Alcuni risolvono solo alcuni aspetti, altri cercano di coprire l’intero
 insieme dei processi relativi a un progetto di sviluppo software.
-
-5
-
-Tools, templates e processi per pianificare
 
 Project Planning Tools:
 
-● Sticky notes (memo in colori assortiti);
+- Sticky notes (memo in colori assortiti);
 
-● Marking pens (pennarelli in colori assortiti);
+- Marking pens (pennarelli in colori assortiti);
 
-● Plenty of whiteboard space.
-
-6
-
-Tools, templates e processi per pianificare
+- Plenty of whiteboard space.
 
 Impiego degli Sticky Notes:
 
-● Identificativo dell’attività (Task ID);
+- Identificativo dell’attività (Task ID);
 
-● Nome univoco dell’attività;
+- Nome univoco dell’attività;
 
-● Descrizione dell’attività;
+- Descrizione dell’attività;
 
-● Responsabile dell’attività;
+- Responsabile dell’attività;
 
-● Risorse richieste;
+- Risorse richieste;
 
-● Quantità di lavoro (effort);
+- Quantità di lavoro (effort);
 
-● Durata dell’attività;
+- Durata dell’attività;
 
-● Earliest Start (ES), Earliest Finish (EF), Latest Start (LS) e Latest Finish
+- Earliest Start (ES), Earliest Finish (EF), Latest Start (LS) e Latest Finish
 
 (LF) (che sono valori calcolati);
 
-● Critical Path (che deve essere calcolato).
-
-7
-
-Tools, templates e processi per pianificare
+- Critical Path (che deve essere calcolato).
 
 Impiego dei pennarelli (marking pens):
 
-● Definire le relazioni di dipendenza;
+- Definire le relazioni di dipendenza;
 
-● Identificare il critical path.
-
-8
-
-Tools, templates e processi per pianificare
+- Identificare il critical path.
 
 Impiego della lavagna:
 
-● Project Overview Statement (POS)
+- Project Overview Statement (POS)
 
-● Work Breakdown Structure (WBS)
+- Work Breakdown Structure (WBS)
 
-● Diagramma delle dipendenze
+- Diagramma delle dipendenze
 
-● Initial Project Schedule
+- Initial Project Schedule
 
-● Final Project Schedule
+- Final Project Schedule
 
-● Resource Schedule
+- Resource Schedule
 
-● Issues Log
+- Issues Log
 
-● Updated Project Schedule
-
-9
-
-Tools, templates e processi per pianificare
+- Updated Project Schedule
 
 Quanto tempo richiede la pianificazione?
 Le seguenti stime dei tempi di pianificazione, fornite da Wysocki, possono
 essere una buona guida per comprendere l’ordine di grandezza:
-● Progetti molto piccoli
-● Progetti piccoli
-● Progetti medi
-● Progetti grandi
-● Progetti molto grandi
 
-< ½ giornata
-< 1 giorno
-   2 giorni
+- Progetti molto piccoli
+- Progetti piccoli
+- Progetti medi
+- Progetti grandi
+- Progetti molto grandi
+
+\< ½ giornata
+\< 1 giorno
+2 giorni
 3-4 giorni
-   ???
+???
 
 Comunque, la conclusione di Wysocki è: “it all depends!”
 
 Per i modelli di gestione di progetti non-tradizionali la pianificazione è svolta
 iterativamente durante l’intera durata del progetto (over the time).
 
-10
-
-Joint Project Planning Session
+## Joint Project Planning Session
 
 Tutte le attività di pianificazione sono svolte durante delle sessioni di lavoro
 denominate Joint Project Planning Sessions (JPPS).
@@ -170,33 +143,27 @@ dovrebbero soddisfare i suoi bisogni) entro i vincoli di tempo, di budget e di
 risorse disponibili.
 
 Meeting Components:
-● Attendees
-● Facilities
-● Equipment
-● Agenda
-● Deliverables
-● Project Proposal
 
-11
-
-Joint Project Planning Session
+- Attendees
+- Facilities
+- Equipment
+- Agenda
+- Deliverables
+- Project Proposal
 
 Attendees
-● Facilitator
-● Project manager
-● Another project manager
-● JPP consultant
-● Technographer
-● Core project team
-● Client representative
-● Resource managers
-● Project champion
-● Functional managers
-● Process owner
 
-12
-
-Joint Project Planning Session
+- Facilitator
+- Project manager
+- Another project manager
+- JPP consultant
+- Technographer
+- Core project team
+- Client representative
+- Resource managers
+- Project champion
+- Functional managers
+- Process owner
 
 Facilitator
 Per poter condurre la JPPS con successo è necessaria la presenza di un
@@ -215,10 +182,6 @@ project manager. Inoltre, se non si dispone di un facilitatore, sarebbe
 opportuno che il project manager non interpreti anche questo ruolo, che
 può essere interpretato da un secondo project manager imparziale.
 
-13
-
-Joint Project Planning Session
-
 JPP consultant
 La figura del JPP consultant è necessaria in quei casi in cui il project manager
 e l’organizzazione non hanno ancora esperienza sufficiente nella gestione di
@@ -231,10 +194,6 @@ di supporto al project management, che si occupa della rendicontazione
 digitale delle decisioni assunte nella fase di pianificazione. Oltre all’uso di
 strumenti più tradizionali (e.g., lavagne, etc.), il supporto di software ad hoc
 consente di avere una buona visione del piano finora elaborato.
-
-14
-
-Joint Project Planning Session
 
 Core project team
 La partecipazione alla JPPS del core project team è fondamentale per il
@@ -251,10 +210,6 @@ Quando si dovrà far fronte a dei cambiamenti (solitamente attesi), sarà
 più facile negoziare con il committente le eventuali modifiche a quanto
 pianificato.
 
-15
-
-Joint Project Planning Session
-
 Resource managers
 Il resource managers è determinante per la corretta allocazione delle
 risorse al progetto. Il resource managers ha completa visione su tutti i
@@ -267,10 +222,6 @@ fornire gli input o ricevere degli output dai deliverables del progetto.
 Pertanto il loro contributo nella fase di pianificazione è determinante,
 perché possono garantire la corretta integrazione della soluzione nei
 processi aziendali.
-
-16
-
-Joint Project Planning Session
 
 Process owner
 Quanto detto per i manager funzionali è altrettanto vero per i process
@@ -288,240 +239,196 @@ management. Questo ruolo può essere ricoperto da un rappresentante del
 committente (è la situazione più favorevole), oppure da un senior manager
 che è il principale beneficiario del deliverables del progetto, etc.
 
-17
-
-Joint Project Planning Session
-
 Facility & Equipment
 Per quanto riguarda facility ed equipment, che sono indispensabili per le
 JPPS, alcuni degli aspetti più significativi (spesso trascurati) sono i seguenti:
 
-● Facility (sale riunioni, etc.)
+- Facility (sale riunioni, etc.)
 
-● Comode, confortevoli, …
-● Lontane dalle occasioni di interruzione (offsite oppure onsite),
-● Considerare l’uso di “breakout rooms”, …
-● etc…
+- Comode, confortevoli, …
+- Lontane dalle occasioni di interruzione (offsite oppure onsite),
+- Considerare l’uso di “breakout rooms”, …
+- etc…
 
-● Equipment
+- Equipment
 
-● Breakout group work areas (tavoli, sedie, flip charts, …),
-● Lavagne (whiteboards, …),
-● Proiettori, …
-● etc…
-
-18
-
-Joint Project Planning Session
+- Breakout group work areas (tavoli, sedie, flip charts, …),
+- Lavagne (whiteboards, …),
+- Proiettori, …
+- etc…
 
 Uno schema di agenda tipo per le JPPSs:
 
-● Sessione #1
+- Sessione #1
 
-● Parte 1: Kick-off
-● Parte 2: Working session
+- Parte 1: Kick-off
+- Parte 2: Working session
 
 Chi è coinvolto in ogni fase del processo di pianificazione?
 
-● Sessione #1
+- Sessione #1
 
-● Project Manager
-● Project Team (anche al completo)
-● Client (raccomandato)
-
-19
-
-Joint Project Planning Session
+- Project Manager
+- Project Team (anche al completo)
+- Client (raccomandato)
 
 JPPS Agenda - Sessione #1: Planning Kick-off
-● Introduzione dello sponsor.
-● Panoramica dello sponsor sul progetto e sulla sua importanza per
+
+- Introduzione dello sponsor.
+- Panoramica dello sponsor sul progetto e sulla sua importanza per
 
 l’azienda, la divisione o il reparto.
 
-● Introduzione del co-project manager del committente.
-● Introduzione del co-project manager responsabile dell’IT.
-● Introduzione del core project team.
-● Introduzione del “planning facilitation team” (che comprende il
+- Introduzione del co-project manager del committente.
+- Introduzione del co-project manager responsabile dell’IT.
+- Introduzione del core project team.
+- Introduzione del “planning facilitation team” (che comprende il
 
 facilitatore e il technographer).
 
-20
-
-Joint Project Planning Session
-
 JPPS Agenda - Sessione #1: Working Session
-● Validazione e prioritizzazione dei requisiti.
-● Panoramica sull’approccio che si vuole utilizzare per la pianificazione
+
+- Validazione e prioritizzazione dei requisiti.
+- Panoramica sull’approccio che si vuole utilizzare per la pianificazione
 
 del progetto.
 
-● Generazione e validazione della WBS.
-● Stima della quantità di lavoro, della durata e delle risorse richieste.
-● Creazione del diagramma delle dipendenze.
-● Individuazione e discussione del critical path e delle date previste per il
+- Generazione e validazione della WBS.
+- Stima della quantità di lavoro, della durata e delle risorse richieste.
+- Creazione del diagramma delle dipendenze.
+- Individuazione e discussione del critical path e delle date previste per il
 
 completamento del progetto e delle diverse milestone.
-● Analisi della schedula e sua compressione (se necessaria).
-● Identificazione dei rischi e degli eventuali piani di mitigazione.
-● Ottenere il consenso di tutti i partecipanti sui contenuti del piano.
-● Aggiornamento della sessione.
 
-21
-
-Joint Project Planning Session
+- Analisi della schedula e sua compressione (se necessaria).
+- Identificazione dei rischi e degli eventuali piani di mitigazione.
+- Ottenere il consenso di tutti i partecipanti sui contenuti del piano.
+- Aggiornamento della sessione.
 
 Planning Session Deliverables
 I deliverables della JPPS potrebbero essere i seguenti:
-● Project Definition Statement (PDS)
-● Work Breakdown Structure (WBS)
-● Risorse necessarie
-● Assegnamento delle risorse
-● Stima della durata delle attività
-● Project network schedule
-● Schedulazione delle attività
-● Project Notebook
-● Project proposal
 
-● Objective
+- Project Definition Statement (PDS)
+- Work Breakdown Structure (WBS)
+- Risorse necessarie
+- Assegnamento delle risorse
+- Stima della durata delle attività
+- Project network schedule
+- Schedulazione delle attività
+- Project Notebook
+- Project proposal
 
-● Background
+- Objective
 
-● Overview of approach to be taken
+- Background
 
-● Detailed statement of work
+- Overview of approach to be taken
 
-● Time and cost summary
+- Detailed statement of work
 
-● Appendices
+- Time and cost summary
 
-22
-
-Joint Project Planning Session
+- Appendices
 
 Scrivere un Project Definition Statement (PDS)
 Il Project Definition Statement (PDS) potrebbe essere una versione “estesa”
 del POS, visto però dalla prospettiva del planning team.
-● Il PDS contiene le stesse 5 sezioni contenute nel POS:
 
-● Problem/opportunity
-● Project goal
-● Project objectives
-● Success criteria
-● Assumptions/Risks/Obstacles
+- Il PDS contiene le stesse 5 sezioni contenute nel POS:
 
-● Il PDS contiene una definizione del progetto più dettagliata destinata al
+- Problem/opportunity
+- Project goal
+- Project objectives
+- Success criteria
+- Assumptions/Risks/Obstacles
+
+- Il PDS contiene una definizione del progetto più dettagliata destinata al
 
 team. Il PDS può essere composto da diverse pagine.
 
-● Il PDS è utilizzato per assicurarsi che il team abbia una visione comune
+- Il PDS è utilizzato per assicurarsi che il team abbia una visione comune
 
 sul progetto e in cosa consiste.
 
-23
-
-Joint Project Planning Session
-
 Il ruolo del committente nella JPPS
-● Il committente ha un suo rappresentante che deve essere presente
-● Validazione dei requisiti e del POS
-● Prioritizzazione dei requisiti (e.g., MoSCoW: “Must, Should, Could,
+
+- Il committente ha un suo rappresentante che deve essere presente
+- Validazione dei requisiti e del POS
+- Prioritizzazione dei requisiti (e.g., MoSCoW: “Must, Should, Could,
 
 Won’t have” prioritization/classification approach)
 
-● Generare e validare la WBS
-● Impegno di risorse da parte del committente
-● Accordo sulla pianificazione del progetto
-● Il committente deve avere “possesso” del piano
-● Il coinvolgimento del committente deve essere significativo
-
-24
-
-Joint Project Planning Session
+- Generare e validare la WBS
+- Impegno di risorse da parte del committente
+- Accordo sulla pianificazione del progetto
+- Il committente deve avere “possesso” del piano
+- Il coinvolgimento del committente deve essere significativo
 
 MoSCoW prioritization/classification approach:
-● Must: requisiti che devono essere soddisfatti nella soluzione finale per
+
+- Must: requisiti che devono essere soddisfatti nella soluzione finale per
 
 considerare il progetto concluso con successo.
 
-● Should: requisiti che dovrebbero essere inclusi nella soluzione se è
+- Should: requisiti che dovrebbero essere inclusi nella soluzione se è
 
 possibile. Solitamente corrispondono a quei requisiti critici che in caso
 di necessità possono essere sostituiti con dei requisiti alternativi.
-● Could: requisiti che potrebbero essere inclusi nella soluzione ma non
+
+- Could: requisiti che potrebbero essere inclusi nella soluzione ma non
 sono necessari. Questi requisiti saranno considerati solo se il tempo e
 le risorse lo permettono.
 
-● Would: requisiti che sarebbero da includere nella soluzione, ma gli
+- Would: requisiti che sarebbero da includere nella soluzione, ma gli
 
 stakeholders hanno acconsentito a rinviare l’implementazione in una
 futura release. Per sottolineare questa scelta a volte il termine “Would”
 è sostituito dal termine “Won't”.
 
-25
-
-Work Breakdown Structure (WBS)
+## Work Breakdown Structure (WBS)
 
 Definizione
 La Work Breakdown Structure (WBS) è una descrizione gerarchica di tutto
 il lavoro (i.e., l’insieme delle attività) che deve essere fatto nel progetto per
 soddisfare i bisogni del committente.
-● In altri termini, potremo dire che la WBS descrive il lavoro che deve
+
+- In altri termini, potremo dire che la WBS descrive il lavoro che deve
 
 essere fatto per soddisfare la RBS.
 
-● La RBS è collegata direttamente con i criteri di successo definiti per
+- La RBS è collegata direttamente con i criteri di successo definiti per
 
 giustificare il progetto.
 
-● Se la WBS è ottenuta direttamente dalla RBS, possiamo ereditare anche
+- Se la WBS è ottenuta direttamente dalla RBS, possiamo ereditare anche
 
 il perseguimento dei criteri di successo.
 
-● Questo risultato non è affatto scontato se la WBS è definita con un
+- Questo risultato non è affatto scontato se la WBS è definita con un
 
 approccio alternativo.
 
-26
-
-Work Breakdown Structure (WBS)
-
 La WBS è derivata dalla RBS
-
-27
-
-Work Breakdown Structure (WBS)
 
 Visualizzazione gerarchica della WBS
 
 Ogni attività rappresenta una scomposizione della WBS.
 
-28
-
-Work Breakdown Structure (WBS)
-
 Un esempio di transizione da RBS a WBS
-
-29
-
-Work Breakdown Structure (WBS)
 
 Impieghi della WBS
 La WBS ha quattro impieghi fondamentali:
-● Thought process tool
-● Architectural design tool
-● Planning tool
-● Project status reporting tool
+
+- Thought process tool
+- Architectural design tool
+- Planning tool
+- Project status reporting tool
 
 Thought process tool
 La WBS costituisce una rappresentazione di un processo mentale, che è un
 potente strumento per il design e il planning.
 La WBS aiuta il project manager e il team a visualizzare esattamente come
 il lavoro deve essere definito e gestito efficientemente.
-
-30
-
-Work Breakdown Structure (WBS)
 
 Architectural design tool
 La WBS rappresenta efficacemente come le diverse attività di progetto
@@ -540,51 +447,45 @@ La WBS può essere utilizzata per monitorare lo stato di completamento
 delle attività di progetto. Man mano che le attività di più basso livello
 vengono completate si risale alle attività di più alto livello.
 
-31
-
-Work Breakdown Structure (WBS)
-
 Generazione della WBS
 Gli approcci per generare la WBS possono essere diversi. Uno dei metodi
 più efficaci consiste nel convertire la RBS nella WBS.
-● L’approccio parte dagli elementi della decomposizione della RBS di
+
+- L’approccio parte dagli elementi della decomposizione della RBS di
 
 livello più basso e procedere a decomporli ulteriormente nelle attività
 che è necessario effettuare per implementare il requisito.
 
-● La decomposizione delle attività si ferma quando si raggiunge un
+- La decomposizione delle attività si ferma quando si raggiunge un
 
 “adeguato” livello di decomposizione.
 
-● Il livello di decomposizione si può ritenere adeguato quando l’attività è
+- Il livello di decomposizione si può ritenere adeguato quando l’attività è
 
 sufficientemente dettagliata per consentire un’agevole stima del tempo,
 dei costi e delle risorse necessarie.
 
-● Non bisogna però eccedere con il livello di dettaglio, altrimenti il lavoro
+- Non bisogna però eccedere con il livello di dettaglio, altrimenti il lavoro
 
 richiesto per la gestione del progetto può essere eccessivo.
 
-● Per determinare quando la WBS è completata possono essere stabiliti
+- Per determinare quando la WBS è completata possono essere stabiliti
 
 dei criteri.
 
-32
-
-Work Breakdown Structure (WBS)
-
-● Quando la WBS è completa si distingue tra activity e task, che finora
+- Quando la WBS è completa si distingue tra activity e task, che finora
 abbiamo trattato come sinonimi e li abbiamo tradotti come “attività”.
-● Il task è l’attività di massimo dettaglio che è stata individuata nella WBS
+- Il task è l’attività di massimo dettaglio che è stata individuata nella WBS
 
 e per la quale dobbiamo stimare tempi, costi e risorse necessarie.
-● Per convertire la RBS in WBS possiamo usare due approcci diversi:
 
-● Team Approach: tutto il team lavora assieme per definire l’intera
+- Per convertire la RBS in WBS possiamo usare due approcci diversi:
+
+- Team Approach: tutto il team lavora assieme per definire l’intera
 
 WBS.
 
-● Subteam Approach: il team si divide in gruppi, ognuno dei quali ha
+- Subteam Approach: il team si divide in gruppi, ognuno dei quali ha
 
 il compito di definire la WBS per un sottoinsieme di requisiti.
 I requisiti possono essere suddivisi secondo diversi criteri (e.g., aree
@@ -592,91 +493,79 @@ funzionali, etc.).
 La definizione della WBS complessiva è svolta coinvolgendo tutto il
 team che provvede all’integrazione dei diversi contributi.
 
-33
-
-Work Breakdown Structure (WBS)
-
 Aspetti operativi
-● La WBS si costruisce usando lavagne, pennarelli e memo, consentendo a
+
+- La WBS si costruisce usando lavagne, pennarelli e memo, consentendo a
 più persone di lavorare assieme in modo efficace (soluzioni software?).
-● Quando si definisce la WBS è necessario tener ben presente il POS e la
+- Quando si definisce la WBS è necessario tener ben presente il POS e la
 
 RBS (oppure strumenti equivalenti al POS o alla RBS). Quindi, può essere
 conveniente riportare il POS e la RBS su una lavagna, oppure appenderli
 a una parete, etc...
 
-● Le attività previste nella WBS devono essere sempre coerenti con il POS
+- Le attività previste nella WBS devono essere sempre coerenti con il POS
 
 e la RBS (mantenimento dell’integrità concettuale).
 
-● Se nella costruzione della WBS si riscontrano incongruenze rispetto allo
+- Se nella costruzione della WBS si riscontrano incongruenze rispetto allo
 scope, definito nel POS e nella RBS, oppure alla soluzione, è necessario
 affrontare il problema immediatamente.
 
-● Le modifiche dello scope e della soluzione durante la pianificazione sono
+- Le modifiche dello scope e della soluzione durante la pianificazione sono
 
 meno costose di quanto lo saranno in seguito.
 
-34
-
-Work Breakdown Structure (WBS)
-
-● A seconda del livello di incertezza riscontrato nella definizione dello
+- A seconda del livello di incertezza riscontrato nella definizione dello
 
 scope o della soluzione dobbiamo scegliere il modello PMLC più adatto.
-● Nel caso venga scelto un modello lineare o incrementale la WBS dovrà
+
+- Nel caso venga scelto un modello lineare o incrementale la WBS dovrà
 
 essere necessariamente completa.
 
-● Nel caso in cui le funzioni e le sotto-funzioni siano ben definite e solo
+- Nel caso in cui le funzioni e le sotto-funzioni siano ben definite e solo
 
 alcuni aspetti dei processi, delle attività e delle features non lo siano, si
 può ricorrere a un approccio iterativo. La WBS dovrà essere raffinata ad
 ogni iterazione per poter raggiungere una definizione stabile.
 
-● Nel caso il livello di incertezza sullo scope e soluzione sia più marcato,
+- Nel caso il livello di incertezza sullo scope e soluzione sia più marcato,
 sarà necessario ricorrere a modelli PMLC più aggressivi e la WBS avrà
 un maggior gap che dovrà essere colmato ad ogni iterazione.
 
-● In alcuni approcci Agile non si parla esplicitamente di WBS. In questi
+- In alcuni approcci Agile non si parla esplicitamente di WBS. In questi
 
 casi come si fa a svolgere le stime e a pianificare? Lo vedremo.
-
-35
-
-Work Breakdown Structure (WBS)
 
 I sei criteri per stabilire quando la WBS è completa
 Per determinare quando la WBS è completata possiamo applicare i seguenti
 criteri:
-● Stato e completamento sono misurabili (e.g., definizione del “done”);
-● Le attività sono ben delimitate (l’inizio e la fine sono ben definiti);
-● Le attività hanno associato un deliverable;
-● I tempi e i costi sono facilmente stimabili;
-● La durata dell’attività è entro un limite accettabile (attività troppo lunghe
+
+- Stato e completamento sono misurabili (e.g., definizione del “done”);
+- Le attività sono ben delimitate (l’inizio e la fine sono ben definiti);
+- Le attività hanno associato un deliverable;
+- I tempi e i costi sono facilmente stimabili;
+- La durata dell’attività è entro un limite accettabile (attività troppo lunghe
 
 saranno difficili da monitorare e controllare);
 
-● Ciascun task deve essere considerato come un’attività che non richiede
+- Ciascun task deve essere considerato come un’attività che non richiede
 interruzioni durante la sua esecuzione e il lavoro assegnato in un task
 deve essere definito in modo “indipendente” da altri task.
-
-36
-
-Work Breakdown Structure (WBS)
 
 Il settimo criterio per stabilire quando la WBS è completa
 Questo criterio è stato separato dagli altri sei perché è di natura diversa, in
 quanto riguarda il giudizio del project manager sui seguenti aspetti:
-● Il cliente non ha partecipato alla generazione della WBS quanto ci si
+
+- Il cliente non ha partecipato alla generazione della WBS quanto ci si
 
 aspettava.
 
-● Il project manager ha una sensazione di disagio (i.e., non è convinto
+- Il project manager ha una sensazione di disagio (i.e., non è convinto
 
 che sia tutto chiaro).
 
-● Il project manager ritiene che modifiche, anche rilevanti, dello scope
+- Il project manager ritiene che modifiche, anche rilevanti, dello scope
 
 possano avvenire con una certa probabilità.
 
@@ -686,27 +575,19 @@ In questi casi è necessario scegliere dei modelli PMLC che permettano di
 gestire i cambiamenti e far fronte alla situazione in cui la WBS è ancora
 necessariamente instabile e incompleta.
 
-37
-
-Work Breakdown Structure (WBS)
-
 Eccezioni ai criteri di completamento della WBS
 Ci sono situazioni in cui la WBS può essere considerata completa anche se
 non tutti i criteri sono soddisfatti.
 Le ragioni possono essere le più diverse. Per esempio:
 
-● Nei progetti di breve durata;
-● Attività difficilmente stimabili;
-● In presenza di attività soggette a rischi elevati;
-● Alta varianza della durata prevista;
-● etc…
+- Nei progetti di breve durata;
+- Attività difficilmente stimabili;
+- In presenza di attività soggette a rischi elevati;
+- Alta varianza della durata prevista;
+- etc…
 
 L’importante è essere consapevoli che alcuni criteri non sono soddisfatti e
 che si è disposti ad accettare le eccezioni (e i rischi).
-
-38
-
-Work Breakdown Structure (WBS)
 
 RBS è un subset della WBS
 
@@ -808,30 +689,23 @@ n.3.4.3.2
 Task
 n.3.4.3.3
 
-39
-
-Work Breakdown Structure (WBS)
-
 Approcci per costruire la WBS
-● Noun-type Approaches
 
-● Physical components
-● Functional components
+- Noun-type Approaches
 
-● Verb-type Approaches
+- Physical components
+- Functional components
 
-● Design-build-test-implement
-● Objectives
+- Verb-type Approaches
 
-● Organizational approaches
+- Design-build-test-implement
+- Objectives
 
-● Geographic
-● Departmental
-● Business process
+- Organizational approaches
 
-40
-
-Work Breakdown Structure (WBS)
+- Geographic
+- Departmental
+- Business process
 
 Graphical WBS for a House
 
@@ -981,10 +855,6 @@ Wallpaper
 Lay
 Tile
 
-41
-
-Work Breakdown Structure (WBS)
-
 Indented Outline WBS for a House
 
 1. SITE PREPARATION
@@ -993,13 +863,13 @@ Indented Outline WBS for a House
 1.2. Grading
 1.3. Excavation
 
-2. FOUNDATION
+1. FOUNDATION
 
 2.1. Erect Forms
 2.2. Pour Concrete
 2.3. Remove Forms
 
-3. FRAMING
+1. FRAMING
 
 3.1. Floor Joists
 3.1.1.
@@ -1020,10 +890,6 @@ Install second floor sub-flooring
 3.3.2. Erect second floor stud walls
 
 3.4. Frame the roof
-
-42
-
-Work Breakdown Structure (WBS)
 
 WBS for a Waterfall Systems Development Methodology
 
@@ -1125,158 +991,130 @@ Get approval
 Complete financial analysis
 Analyze risks
 
-43
-
-Work Breakdown Structure (WBS)
-
 L’uso di template nella costruzione della WBS
-● I template consentono di risparmiare tempo nella fase di planning.
-● I template sono costruiti sulla base di esperienze passate.
-● L’uso dei template permette di standardizzare la pianificazione e la
+
+- I template consentono di risparmiare tempo nella fase di planning.
+- I template sono costruiti sulla base di esperienze passate.
+- L’uso dei template permette di standardizzare la pianificazione e la
 
 gestione del progetto.
 
-● I template forniscono una struttura per raccogliere e usare i dati relativi
+- I template forniscono una struttura per raccogliere e usare i dati relativi
 
 alle durate e ai costi stimati e misurati.
 
-● L’uso dei template consente di concentrarsi sul miglioramento della
+- L’uso dei template consente di concentrarsi sul miglioramento della
 
 qualità dei processi.
-
-44
-
-Work Breakdown Structure (WBS)
 
 Typical Recurring Projects
 L’uso di template è molto efficace per gestire progetti ricorrenti, come ad
 esempio:
-● Distribuire una nuova release di un software;
-● Installare una rete in degli uffici;
-● L’aggiornamento di una applicazione con nuove funzionalità;
-● Aggiornare o creare il materiale da impiegare nel training;
-● etc…
 
-45
+- Distribuire una nuova release di un software;
+- Installare una rete in degli uffici;
+- L’aggiornamento di una applicazione con nuove funzionalità;
+- Aggiornare o creare il materiale da impiegare nel training;
+- etc…
 
-Stimare durata e quantità dei lavoro dei task
+## Stimare durata e quantità dei lavoro dei task
 
 Elapsed time (durata) versus effort/labor (quantità di lavoro)
 
-46
-
-2468102468101214161820L = DLaborDurationL = .75D33% unplanned         interruptionsMODEL ASSUMPTIONS*Individuals work at 75 percent efficiency rate.*Unplanned interruptions account for 33 percent of clock time.Stimare durata e quantità dei lavoro dei task
+## 2468102468101214161820L = DLaborDurationL = .75D33% unplanned         interruptionsMODEL ASSUMPTIONS*Individuals work at 75 percent efficiency rate.*Unplanned interruptions account for 33 percent of clock time.Stimare durata e quantità dei lavoro dei task
 
 Si deve stimare la durata o la quantità di lavoro associata a ciascun Task?
-● Si deve stimare la durata per poter costruire la schedula e determinare
+
+- Si deve stimare la durata per poter costruire la schedula e determinare
 quando le milestone saranno raggiunte e il progetto sarà completato.
-● Si deve stimare la quantità di lavoro per valutare i costi e assegnare le
+- Si deve stimare la quantità di lavoro per valutare i costi e assegnare le
 
 risorse.
 
 Note importanti:
 
-● Ricordiamo che la durata di un task dipende dalla quantità di lavoro e
+- Ricordiamo che la durata di un task dipende dalla quantità di lavoro e
 dalle risorse ad esso assegnate, ma che la relazione non è lineare.
 
-● Durante il processo di stima è necessario svolgere entrambe le stime
+- Durante il processo di stima è necessario svolgere entrambe le stime
 
 utilizzando la stessa metodologia.
 
-● Approcci come Scrum si focalizzano sulla stima della quantità di lavoro,
+- Approcci come Scrum si focalizzano sulla stima della quantità di lavoro,
 perché è il “parametro” utilizzato per selezionare le user stories da
 mettere in produzione in ciascuna sprint. Perché? E la durata?
 
-47
-
-Stimare durata e quantità dei lavoro dei task
+## Stimare durata e quantità dei lavoro dei task
 
 Time
 
 Resource Loading vs. Task Duration
 Un semplice esempio:
-● Prendere la sedia
-● Portarla fino alla porta
-● Appoggiare a terra la sedia
-● Aprire la porta
-● Tenere la porta aperta con un piede e
+
+- Prendere la sedia
+- Portarla fino alla porta
+- Appoggiare a terra la sedia
+- Aprire la porta
+- Tenere la porta aperta con un piede e
 
 prendere nuovamente la sedia
-● Portare la sedia fuori dalla porta
-● Posizionare la sedia nel corridoio
 
-1
+- Portare la sedia fuori dalla porta
+- Posizionare la sedia nel corridoio
 
-2
-
-3
-
-4
-
-# of people on the team
-
-48
-
-Stimare durata e quantità dei lavoro dei task
+\# of people on the team
 
 Cause che possono influire sulla durata di un task
 La durata di un task può variare per diverse ragioni, ad esempio:
-● Diversi livelli di esperienza e competenza;
-● Eventi inattesi;
-● Uso non efficiente del tempo di lavoro;
-● Errori e fraintendimenti;
-● Tutti i processi hanno una durata variabile per cause comuni;
-● etc…
 
-49
-
-Stimare durata e quantità dei lavoro dei task
+- Diversi livelli di esperienza e competenza;
+- Eventi inattesi;
+- Uso non efficiente del tempo di lavoro;
+- Errori e fraintendimenti;
+- Tutti i processi hanno una durata variabile per cause comuni;
+- etc…
 
 Metodi per stimare la durata di un Task
 La stima della durata di un task può essere effettuata, ad esempio, con uno
 dei seguenti metodi:
-● Estrapolazioni basate su attività simili di cui è nota la durata media
-● Analisi di dati storici
-● Utilizzo del giudizio di un esperto
-● Applicazione di una tecnica “consensus-based”:
 
-● Delphi technique
-● Three-point technique
-● Wide-band Delphi technique
+- Estrapolazioni basate su attività simili di cui è nota la durata media
+- Analisi di dati storici
+- Utilizzo del giudizio di un esperto
+- Applicazione di una tecnica “consensus-based”:
+
+- Delphi technique
+- Three-point technique
+- Wide-band Delphi technique
 
 Nota: Questi approcci possono essere usati per poter stimare anche altre
 
 “quantità” (effort, risorse umane, etc.).
 
-50
-
-Metodi di stima “consensus-based”
+## Metodi di stima “consensus-based”
 
 Delphi technique
-● Il metodo Delphi è stato sviluppato dalla Project RAND tra gli anni ’50 e
+
+- Il metodo Delphi è stato sviluppato dalla Project RAND tra gli anni ’50 e
 
 ’60 da Olaf Helmer, Norman Dalkey e Nicholas Rescher.
 
-● Il metodo richiede a un gruppo di esperti di effettuare le stime in due o
+- Il metodo richiede a un gruppo di esperti di effettuare le stime in due o
 
 più round.
 
-● A ogni round un facilitatore fornisce un sommario delle stime effettuate
+- A ogni round un facilitatore fornisce un sommario delle stime effettuate
 accompagnate dalle motivazioni (in origine gli autori erano anonimi).
 Dopodiché, ogni esperto è incoraggiato a rivedere la stima in base alle
 stime e alle motivazioni degli altri.
 
-● Durante questo processo il gap tra le diverse stime si dovrebbe ridurre e
+- Durante questo processo il gap tra le diverse stime si dovrebbe ridurre e
 
 le stime dovrebbero convergere verso un valore condiviso.
 
-● Il processo termina quando si è raggiunto il numero massimo di round o
+- Il processo termina quando si è raggiunto il numero massimo di round o
 un consenso unanime, oppure il risultato si è stabilizzato. La media o la
 mediana delle stime rappresentano il valore della stima finale.
-
-51
-
-Metodi di stima “consensus-based”
 
 The Delphi Technique
 
@@ -1285,91 +1123,6 @@ Round 1
 Round 2
 
 Round 3
-
-5
-4
-3
-2
-1
-0
-
-5
-4
-3
-2
-1
-0
-
-5
-4
-3
-2
-1
-0
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-52
-
-Metodi di stima “consensus-based”
 
 The Three-Point Method
 
@@ -1388,100 +1141,83 @@ M: Most Likely
 E =
 
 O + 4M + P
-6
-
-53
-
-Metodi di stima “consensus-based”
 
 Altri esempi di tecniche “consensus-based”
-● Negli approcci di gestione dei progetti di tipo agile sono proposte diverse
+
+- Negli approcci di gestione dei progetti di tipo agile sono proposte diverse
 
 tecniche di stima.
 
-● In metodologie agile come SCRUM spesso sono utilizzate delle tecniche
+- In metodologie agile come SCRUM spesso sono utilizzate delle tecniche
 
 consensus-based come, ad esempio, il “planning poker”.
 
-54
+## Le stime in SCRUM
 
-Le stime in SCRUM
-
-● Nella metodologia SCRUM i requisiti (funzionali e non) sono definiti in
+- Nella metodologia SCRUM i requisiti (funzionali e non) sono definiti in
 
 termini di user story.
 
-● Le user story da implementare sono inserite in un Product Backlog.
-● Ad ogni iterazione di durata prefissata, chiamata sprint, sono selezionate
+- Le user story da implementare sono inserite in un Product Backlog.
+- Ad ogni iterazione di durata prefissata, chiamata sprint, sono selezionate
 le user story da implementare tenendo conto del carico di lavoro e delle
 risorse disponibili.
 
-● La stima non è effettuata sul carico di lavoro in termini di giorni/uomo,
+- La stima non è effettuata sul carico di lavoro in termini di giorni/uomo,
 ma si stima la “complessità di sviluppo” (development complexity) delle
 diverse user story, che è misurata in story point.
 
-● Gli story point sono adimensionali e negli approcci agile sono preferiti a
+- Gli story point sono adimensionali e negli approcci agile sono preferiti a
 
 misure legate al tempo e lo spazio.
 
-● I membri del team assegnano gli story point a ogni user story, basando le
+- I membri del team assegnano gli story point a ogni user story, basando le
 proprie stime sull’esperienza e la conoscenza del dominio del progetto.
-
-55
-
-Le stime in SCRUM
 
 La metodologia SCRUM
 
-56
+## Stimare la quantità di lavoro: unità di misura
 
-Stimare la quantità di lavoro: unità di misura
-
-● I metodi di stima usati in Scrum, come il planning poker, devono stabilire
+- I metodi di stima usati in Scrum, come il planning poker, devono stabilire
 come quantificare gli story point. Possono essere usati valori numerici
 (e.g., la sequenza di Fibonacci: 1, 2, 3, 5, 8, 13, 21, etc.), o non numerici
 (e.g., taglie delle T-shirt come XS, S, M, L, XL, XXL).
 
-● L’uso degli story point, invece di quantificare il carico di lavoro (effort) in
+- L’uso degli story point, invece di quantificare il carico di lavoro (effort) in
 termini di giorni/uomo, è favorito dalla necessità di pianificare ciascuna
 sprint (di durata prestabilita), selezionando il sottoinsieme di user story
 da mettere in produzione utilizzando i story point disponibili nella sprint.
 
-● In letteratura sono proposti anche altri metodi per misurare il carico di
+- In letteratura sono proposti anche altri metodi per misurare il carico di
 
 lavoro. Alcuni esempi alternativi sono i seguenti:
-● Lines of Code (LOC)
-● Function points
-● Feature points oppure object points
-● etc…
 
-57
+- Lines of Code (LOC)
+- Function points
+- Feature points oppure object points
+- etc…
 
-Stimare la quantità di lavoro: unità di misura
-
-● Tra le tante tecniche, possiamo citare anche la
+- Tra le tante tecniche, possiamo citare anche la
 
 Pomodoro Technique, proposta originariamente
 da Francesco Cirillo(1).
 
-● L’idea di base interessante è quella di combinare
+- L’idea di base interessante è quella di combinare
 il metodo di “gestione del tempo” con il metodo
 di “misura del tempo”.
 
-● La gestione del tempo prevede blocchi di 25 minuti (pomodoro session),
+- La gestione del tempo prevede blocchi di 25 minuti (pomodoro session),
 in cui si lavora senza interruzioni e distrazioni, intervallati da delle pause
 di 5 minuti (o anche più lunghe dopo un certo numero di blocchi).
-● Il vantaggio immediato è quello di aumentare la produttività dando dei
+- Il vantaggio immediato è quello di aumentare la produttività dando dei
 riferimenti precisi allo sviluppatore per gestire correttamente il tempo.
-● Se il tempo è gestito correttamente, organizzandolo in sessioni di lavoro
+- Se il tempo è gestito correttamente, organizzandolo in sessioni di lavoro
 di 25 minuti, è ragionevole pensare di misurare il tempo con il numero
 di sessioni (pomodoro) necessarie.
 
-(1)  https://francescocirillo.com
+(1)  <https://francescocirillo.com>
 
-58
-
-Stimare durata e quantità di lavoro dei task
+## Stimare durata e quantità di lavoro dei task
 
 Anche le stime hanno un ciclo di vita
 
@@ -1492,151 +1228,118 @@ time
 “You will be smarter tomorrow
 than you are today.”
 
-59
-
-Stimare le risorse necessarie
+## Stimare le risorse necessarie
 
 Stima delle risorse necessarie
 Le risorse che potrebbero essere necessarie all’esecuzione di un task sono
 le seguenti:
-● People
-● Facilities
-● Equipment
-● Money
-● Materials
+
+- People
+- Facilities
+- Equipment
+- Money
+- Materials
 
 Nota: le risorse a disposizione per l’esecuzione di un task hanno un impatto
 sulla sua durata e il suo costo, oltre ad influenzare i possibili rischi.
 
-60
-
-Stimare le risorse necessarie
-
 Assegnare membri dello staff alle attività
-● Quando si deve assegnare del personale ai task si devono considerare
+
+- Quando si deve assegnare del personale ai task si devono considerare
 le caratteristiche dei task, quali il rischio, il business value, la criticità,
 e/o gli skill necessari.
 
-● Un approccio efficace consiste nel sviluppare una matrice “skill-need”
+- Un approccio efficace consiste nel sviluppare una matrice “skill-need”
 per le attività e una matrice “skill-inventory” per i membri dello staff.
-
-61
-
-Stimare le risorse necessarie
 
 Resource Breakdown Structure
 
-62
-
-Stimare le risorse necessarie
-
 Functional Organization
-
-63
-
-Stimare le risorse necessarie
 
 Project Organization
 
-64
-
-Stimare le risorse necessarie
-
 Matrix Organization
 
-65
-
-Stimare e gestire i costi
+## Stimare e gestire i costi
 
 Metodologie di stima dei costi
 Le seguenti tre tipologie di stime sono impiegate spesso nella gestione dei
 progetti per prevedere e poi gestire i costi:
-● Order of magnitude estimate;
-● Budget estimate;
-● Definitive estimate.
+
+- Order of magnitude estimate;
+- Budget estimate;
+- Definitive estimate.
 
 Gestione dei costi
 Per gestire i costi, in pianificazione e durante l’esecuzione, è necessario:
-● Assegnare i costi ai task presenti nella WBS (Cost Budgeting)
-● Monitorare i costi reali delle attività finora svolte (Cost Control):
 
-● Weekly reports;
-● Baseline versus actual costs (stime vs costi effettivi).
+- Assegnare i costi ai task presenti nella WBS (Cost Budgeting)
+- Monitorare i costi reali delle attività finora svolte (Cost Control):
 
-66
+- Weekly reports;
+- Baseline versus actual costs (stime vs costi effettivi).
 
-Cash Flow Management
+## Cash Flow Management
 
-● Un aspetto fondamentale, per garantirsi la sostenibilità economica di un
+- Un aspetto fondamentale, per garantirsi la sostenibilità economica di un
 progetto, è la disponibilità della liquidità necessaria per coprire i costi.
-● Un’azienda che affronta un progetto ogni mese deve far fronte ai costi
+- Un’azienda che affronta un progetto ogni mese deve far fronte ai costi
 
 corrispondenti agli stipendi, ai servizi, ai costi generali, etc., che durante
 il planning devono essere stimati e suddivisi tra le diverse attività.
-● Il mese corrisponde alla periodicità tradizionale della maggior parte dei
+
+- Il mese corrisponde alla periodicità tradizionale della maggior parte dei
 pagamenti. Gli stipendi sono mensili e spesso le fatture prevedono la
 scadenza a 𝑥 giorni “fine mese”, dove 𝑥 è un multiplo di 30.
 
-● Indipendentemente dalla periodicità, ogni volta che bisogna effettuare
+- Indipendentemente dalla periodicità, ogni volta che bisogna effettuare
 un pagamento si deve avere la liquidità necessaria. Se non si dispone
 del denaro necessario, l’azienda ha due opzioni: ritardare il pagamento
 oppure richiedere un finanziamento (fido, mutuo, etc.).
 
-● Ritardare un pagamento è comunque una violazione di un “contratto”,
+- Ritardare un pagamento è comunque una violazione di un “contratto”,
 
 sebbene spesso tollerata, e un finanziamento ha un costo (a volte molto
 alto) e non sempre viene concesso.
 
-67
-
-Cash Flow Management
-
-● Per evitare di risultare inadempienti (con eventuali conseguenze legali,
+- Per evitare di risultare inadempienti (con eventuali conseguenze legali,
 che possono portare anche alla bancarotta) o pagare oneri finanziari a
 volte anche alti, è necessario pianificare un flusso di cassa “sostenibile”
 per il progetto e l’azienda.
 
-● Il flusso di cassa (cash flow) dal punto di vista amministrativo-contabile
+- Il flusso di cassa (cash flow) dal punto di vista amministrativo-contabile
 è un concetto molto articolato, utile a comprendere lo stato di salute di
 un impresa e a gestirla nel modo corretto.
 
-● Dal punto di vista del project manager il concetto di flusso di cassa può
+- Dal punto di vista del project manager il concetto di flusso di cassa può
 essere semplificato e riassunto dai flussi “monetari” in un determinato
 orizzonte temporale (quello del progetto), calcolato come la differenza
 tra tutte le entrate (inflow) e le uscite (outflow) di denaro nel tempo.
-● Dal punto di vista della determinazione dell’utile fornito da un progetto
+- Dal punto di vista della determinazione dell’utile fornito da un progetto
 è sufficiente calcolare la differenza tra le entrate e le uscite al termine
 del progetto. Però, per gestire correttamente il cash flow è necessario
 considerare la sua evoluzione nel tempo.
 
-68
-
-Cash Flow Management
-
-● Durante la pianificazione è necessario stabilire come gestire il cash flow,
+- Durante la pianificazione è necessario stabilire come gestire il cash flow,
 definendo le entrate e le uscite, prevedendo gli importi e le date per gli
 incassi e i pagamenti.
 
-● Gli importi e le date degli incassi e dei pagamenti dipendono in parte dal
+- Gli importi e le date degli incassi e dei pagamenti dipendono in parte dal
 calendario (schedula) delle attività di progetto. Per cui, potrebbe essere
 necessario modificare il calendario per “correggere” il cash flow.
 
-● Il numero e gli importi degli incassi e le “condizioni” per ottenerli devono
+- Il numero e gli importi degli incassi e le “condizioni” per ottenerli devono
 
 essere definiti nel contratto negoziato con il committente.
 
-● Le condizioni per ottenere un incasso potrebbero essere ad esempio:
-● Anticipo: alla firma del contratto si prevede un pagamento;
-● Rilascio: al momento dell’accettazione di una “parte” del deliverable
+- Le condizioni per ottenere un incasso potrebbero essere ad esempio:
+- Anticipo: alla firma del contratto si prevede un pagamento;
+- Rilascio: al momento dell’accettazione di una “parte” del deliverable
 
 del progetto (e.g., funzionalità, componente, etc.);
 
-● Milestone: al raggiungimento di un obiettivo di progetto intermedio;
-● Saldo: a chiusura del progetto.
-
-69
-
-Cash Flow Management
+- Milestone: al raggiungimento di un obiettivo di progetto intermedio;
+- Saldo: a chiusura del progetto.
 
 Esempio
 
@@ -1676,7 +1379,7 @@ Outflow Inflow Tot. Outflow Tot. Net Cash Flow Note
 
 € 47.000,00
 
--€ 7.000,00
+\-€ 7.000,00
 
 03/08/2020
 
@@ -1704,13 +1407,13 @@ Outflow Inflow Tot. Outflow Tot. Net Cash Flow Note
 
 € 104.000,00
 
--€ 4.000,00
+\-€ 4.000,00
 
 € 17.500,00 € 100.000,00
 
 € 121.500,00
 
--€ 21.500,00
+\-€ 21.500,00
 
 01/12/2020
 
@@ -1720,7 +1423,7 @@ Outflow Inflow Tot. Outflow Tot. Net Cash Flow Note
 
 € 142.500,00
 
--€ 12.500,00 Milestone 2
+\-€ 12.500,00 Milestone 2
 
 04/01/2021
 
@@ -1728,7 +1431,7 @@ Outflow Inflow Tot. Outflow Tot. Net Cash Flow Note
 
 € 164.500,00
 
--€ 34.500,00
+\-€ 34.500,00
 
 01/02/2021
 
@@ -1738,7 +1441,7 @@ Outflow Inflow Tot. Outflow Tot. Net Cash Flow Note
 
 € 179.500,00
 
--€ 29.500,00 Milestone 3
+\-€ 29.500,00 Milestone 3
 
 19/03/2021
 
@@ -1749,10 +1452,6 @@ Outflow Inflow Tot. Outflow Tot. Net Cash Flow Note
 € 189.500,00
 
 € 10.500,00 Milestone 4
-
-70
-
-Cash Flow Management
 
 Inflow e OutFlow
 
@@ -1776,10 +1475,6 @@ Inflow
 
 Outflow
 
-71
-
-Cash Flow Management
-
 Net Cash Flow
 
 € 250.000,00
@@ -1794,7 +1489,7 @@ Net Cash Flow
 
 € 0,00
 
--€ 50.000,00
+\-€ 50.000,00
 
 Inflow Tot.
 
@@ -1802,74 +1497,54 @@ Outflow Tot.
 
 Net Cash Flow
 
-72
+## Pianificazione vs Contratto
 
-Pianificazione vs Contratto
-
-● La pianificazione del progetto deve tener conto del tipo di contratto che
+- La pianificazione del progetto deve tener conto del tipo di contratto che
 
 l’azienda stipulerà con il committente.
 
-● Il contratto a corpo (fixed-price) prevede che al termine del progetto, o
+- Il contratto a corpo (fixed-price) prevede che al termine del progetto, o
 
 ad ognuno degli incrementi/rilasci previsti, il committente debba pagare
 un prezzo predeterminato non considerando i costi reali. Questo tipo di
 contratto è anche noto come “contratto a pacchetto” o “chiavi in mano”.
 
-● Il contratto a consuntivo (time and materials) prevede che al termine
+- Il contratto a consuntivo (time and materials) prevede che al termine
 
 del progetto, o periodicamente, il committente debba pagare in base al
 lavoro effettivamente svolto, senza considerare il lavoro ancora da fare.
 Questo contratto è anche noto come “a consumo” o “a misura”.
 
-● I contratti a corpo e a consuntivo possono essere viste come due visioni
+- I contratti a corpo e a consuntivo possono essere viste come due visioni
 
 opposte del rapporto tra fornitore e committente.
 
-● Quale tipo di contratto è più “vantaggioso” per il fornitore e quale per il
+- Quale tipo di contratto è più “vantaggioso” per il fornitore e quale per il
 
 committente?
 
-73
-
-Pianificazione vs Contratto
-
-● Se si deve stipulare un contratto a corpo, è chiaro che la fase di planning
+- Se si deve stipulare un contratto a corpo, è chiaro che la fase di planning
 è fondamentale per stimare correttamente i costi del progetto e fissare il
 prezzo/budget “corretto”.
 
-● Per i progetti con contratto a corpo il fornitore corre il rischio che il costo
+- Per i progetti con contratto a corpo il fornitore corre il rischio che il costo
 sia sottostimato e che il prezzo/budget non sia sufficiente a coprire i costi
 effettivi del progetto. Invece, il committente ha il vantaggio di fissare alla
 stipula del contratto il prezzo finale, senza esporsi al rischio di “sorprese”.
-● Se l’approccio scelto è di tipo iterativo e non è possibile stimare in modo
+- Se l’approccio scelto è di tipo iterativo e non è possibile stimare in modo
 attendibile i costi, l’azienda che sviluppa la soluzione dovrebbe scegliere
 un contratto a consuntivo. Quando questo non è possibile, chi sviluppa la
 soluzione si espone a un rischio, che è tanto più alto quanto più alta è la
 scarsa attendibilità delle stime.
 
-74
+## Project network diagram
 
-Project network diagram
-
-● Per determinare il calendario (schedula) delle attività di progetto si deve
+- Per determinare il calendario (schedula) delle attività di progetto si deve
 costruire il Project Network Diagram da cui si deriverà il Gantt Chart.
-
-75
-
-Project network diagram
 
 Network-based Scheduling – Task on the Arrow
 
-76
-
-Project network diagram
-
 Network-based Scheduling – Task on the node format
-
-77
-
-Project network diagram
 
 Task Node
 
@@ -1903,15 +1578,7 @@ Slack : Slack time (ritardo massimo che non causa un ritardo nel
 
 completamento del progetto)
 
-78
-
-Project network diagram
-
 Diagramming Conventions
-
-79
-
-Project network diagram
 
 A
 
@@ -1939,64 +1606,50 @@ B
 
 SF: When A starts, B may finish
 
-80
-
-Project network diagram
-
 Dependency Relationships
-● Finish-to-Start (FS): rappresenta la classica dipendenza. Un’attività può
+
+- Finish-to-Start (FS): rappresenta la classica dipendenza. Un’attività può
 partire solo quando una o più attività precedenti hanno terminato.
 Solitamente in una prima pianificazione è consigliabile utilizzare solo
 queste dipendenze.
 
-● Finish-to-Finish (FF): Un’attività B non può finire prima che lo sia anche
+- Finish-to-Finish (FF): Un’attività B non può finire prima che lo sia anche
 un’attività A. Per esempio, il data entry non può finire prima della fine
 della raccolta dei dati.
 
-● Start-to-Start (SS): Un’attività B non può iniziare prima che lo sia anche
+- Start-to-Start (SS): Un’attività B non può iniziare prima che lo sia anche
 un’attività A. Per esempio, il data entry non può iniziare prima dell’inizio
 della raccolta dei dati.
 
-● Start-to-Finish (SF): Un’attività B non può finire prima che un’attività A
+- Start-to-Finish (SF): Un’attività B non può finire prima che un’attività A
 
 non sia partita. Per esempio, l’impiego di un sistema sostitutivo non può
 terminare prima che il nuovo sistema sia disponibile.
 
-81
-
-Project network diagram
-
-● Lag: le relazioni di dipendenza possono prevedere anche dei ritardi
+- Lag: le relazioni di dipendenza possono prevedere anche dei ritardi
 prestabiliti. Per esempio il data-entry deve iniziare due giorni dopo
 l’inizio della raccolta dei dati.
 Il lag si può rappresentare aggiungendo alla dipendenza il valore del
 ritardo (e.g., SS-2, etc.).
 
-82
-
-Project network diagram
-
 Dependency Constraints
-● Technical constraints
 
-● Discretionary constraints (e.g., aggiunti per ridurre i rischi)
-● Logical constraints (e.g., per imporre una sequenza specifica di tasks)
-● Best practice constraints (e.g., basati su passate esperienze)
-● Unique requirements constraints (e.g., risorsa singole per più tasks)
+- Technical constraints
 
-● Management constraints (e.g., per comprimere la schedula)
-● Inter-project constraints (e.g., attesa di risultati da un altro progetto)
-● Date constraints
+- Discretionary constraints (e.g., aggiunti per ridurre i rischi)
+- Logical constraints (e.g., per imporre una sequenza specifica di tasks)
+- Best practice constraints (e.g., basati su passate esperienze)
+- Unique requirements constraints (e.g., risorsa singole per più tasks)
 
-● No earlier than
-● No later than
-● On this date
+- Management constraints (e.g., per comprimere la schedula)
+- Inter-project constraints (e.g., attesa di risultati da un altro progetto)
+- Date constraints
 
-● Lag variables (e.g., ritardi e attese tra tasks)
+- No earlier than
+- No later than
+- On this date
 
-83
-
-Project network diagram
+- Lag variables (e.g., ritardi e attese tra tasks)
 
 Come costruire un Initial Dependency Diagram
 1.
@@ -2010,57 +1663,35 @@ Posizionare lo start node sulla parte sinistra della lavagna.
 
 lavagna e collegarli allo start node.
 
-5. Muovere a sinistra tutti i task che si trovano sulla parte destra, ma che
+1. Muovere a sinistra tutti i task che si trovano sulla parte destra, ma che
 
 hanno tutti i predecessori già sulla sinistra e collegali con una singola
 linea ai predecessori.
 
-6. Ripetere il passo 5 finché tutti i task sono stati spostati a sinistra.
-
-84
-
-Project network diagram
+1. Ripetere il passo 5 finché tutti i task sono stati spostati a sinistra.
 
 Paths Through the Network
 
-● The Forward Pass – Early Schedule
+- The Forward Pass – Early Schedule
 
-● Da sinistra a destra (start to finish)
-● Determina l’Early Start e l’Early Finish
-● ES + duration – 1 = EF
+- Da sinistra a destra (start to finish)
+- Determina l’Early Start e l’Early Finish
+- ES + duration – 1 = EF
 
-● Backward Pass – Late Schedule
+- Backward Pass – Late Schedule
 
-● Da destra a sinistra (finish to start)
-● Determina il Late Start and il Late Finish
-● LF – duration + 1 = LS
-
-85
-
-Project network diagram
+- Da destra a sinistra (finish to start)
+- Determina il Late Start and il Late Finish
+- LF – duration + 1 = LS
 
 Forward Pass Calculations – Early Schedule
 
-86
-
-Project network diagram
-
 Backward Pass Calculations – Late Schedule
-
-87
-
-Project network diagram
 
 Critical Path
 Il critical path identifica quei task che determinano la durata del progetto.
 Ogni ritardo subito dall’esecuzione di un task nel critical path si ripercuote
 immediatamente sulla durata dell’intero progetto.
-
-8
-
-88
-
-Project network diagram
 
 Early Start to Late Finish Window
 La differenza tra i tempi Early Finish e Late Finish definisce uno slack
@@ -2068,52 +1699,42 @@ La differenza tra i tempi Early Finish e Late Finish definisce uno slack
 task senza avere impatto sull’inizio del task successivo e/o sulla durata
 dell’intero progetto.
 
-89
-
-ESLFDurationSlackTaskProject network diagram
+## ESLFDurationSlackTaskProject network diagram
 
 Slack Time (or Float)
 Si possono distinguere i seguenti due casi:
-● Total Slack (Total Float)
 
-● Ritardo che può subire un task senza
+- Total Slack (Total Float)
+
+- Ritardo che può subire un task senza
 avere un impatto sull’early schedule
 del progetto.
 
-● Free Slack (Free Float)
+- Free Slack (Free Float)
 
-● Ritardo che può subire un task senza
+- Ritardo che può subire un task senza
 avere un impatto sull’early schedule
 del task successivo.
 
 “Do Not Plan to Use Slack to Bail Out the Project!”
 
-90
-
-Project network diagram
+## Project network diagram
 
 Schedule Compression Techniques
 La schedula può essere compressa applicando una delle seguenti azioni:
-● Sostituire delle dipendenze FS con dipendenze SS.
-● Sostituire un membro del team con uno con più esperienza.
-● Aggiungere risorse spostandole:
 
-● Dai task non contenuti nel critical path a tasks nel critical path.
-● Da altri progetti per assegnarle a:
+- Sostituire delle dipendenze FS con dipendenze SS.
+- Sostituire un membro del team con uno con più esperienza.
+- Aggiungere risorse spostandole:
 
-o Task nel critical path;
-o Task ad alto rischio;
-o Task che possono presentare una grande varianza nella durata.
+- Dai task non contenuti nel critical path a tasks nel critical path.
+- Da altri progetti per assegnarle a:
 
-91
-
-Project network diagram
+  - Task nel critical path;
+  - Task ad alto rischio;
+  - Task che possono presentare una grande varianza nella durata.
 
 Schedule Compression Iterations
-
-92
-
-Project network diagram
 
 Schedule Compression
 
@@ -2121,130 +1742,83 @@ La compressione della schedula non è mai gratis!!!
 
 Qual è l’impatto della compressione sul progetto?
 
-● Comprimere la schedula non riduce il quantitativo di lavoro da svolgere.
-● Modificare delle precedenze può implicare un aumento del lavoro, dei
+- Comprimere la schedula non riduce il quantitativo di lavoro da svolgere.
+- Modificare delle precedenze può implicare un aumento del lavoro, dei
 
 costi, dei rischi e della complessità.
 
-93
-
-Project network diagram
-
 Management Reserve
 Per poter prevenire ritardi si suggerisce quanto segue:
-● Non bisogna mai gonfiare la durata di un task;
-● Bisogna prevedere una riserva pari a una certa percentuale della durata
+
+- Non bisogna mai gonfiare la durata di un task;
+- Bisogna prevedere una riserva pari a una certa percentuale della durata
 
 complessiva del progetto (e.g., 5–10%);
 
-● La riserva può essere gestita creando un task dummy di durata pari alla
+- La riserva può essere gestita creando un task dummy di durata pari alla
 
 riserva da inserire come ultima attività del progetto.
 
-● Ogni volta che viene rilevato un ritardo che si ripercuote sulla durata
+- Ogni volta che viene rilevato un ritardo che si ripercuote sulla durata
 del progetto, si sottrae il ritardo alla durata dell’ultimo task dummy
 corrispondente alla riserva.
 
-● E’ necessario che la riserva e il suo utilizzo sia ben visibile, dopodiché è
+- E’ necessario che la riserva e il suo utilizzo sia ben visibile, dopodiché è
 
 necessario gestirla correttamente.
 
-● Questa “riserva” è nota anche come Scope Bank. Perché?
+- Questa “riserva” è nota anche come Scope Bank. Perché?
 
-94
+**Esempio:** WBS iniziale
 
-Project network diagram
+**Esempio:** WBS con definizione predecessori
 
-Esempio: WBS iniziale
+**Esempio:** Network Diagram
 
-95
+**Esempio:** WBS con date
 
-Project network diagram
+**Esempio:** WBS con le risorse allocate
 
-Esempio: WBS con definizione predecessori
-
-96
-
-Project network diagram
-
-Esempio: Network Diagram
-
-97
-
-Project network diagram
-
-Esempio: WBS con date
-
-98
-
-Project network diagram
-
-Esempio: WBS con le risorse allocate
-
-99
-
-Project network diagram
-
-Esempio: Gantt
-
-100
-
-Project network diagram
+**Esempio:** Gantt
 
 Altri Esempi di Gantt
 
-101
-
-Project network diagram
+Altri Esempi di Gantt
 
 Altri Esempi di Gantt
 
-102
-
-Project network diagram
-
 Altri Esempi di Gantt
 
-103
-
-Project network diagram
-
-Altri Esempi di Gantt
-
-104
-
-Scrivere una proposta di progetto efficace
+## Scrivere una proposta di progetto efficace
 
 Contenuto della proposta di progetto
-● Executive Summary
-● Background
-● Objective
-● Overview of the approach to be taken
-● Detailed statement of work
-● Time and cost summary
-● Appendices
 
-105
+- Executive Summary
+- Background
+- Objective
+- Overview of the approach to be taken
+- Detailed statement of work
+- Time and cost summary
+- Appendices
 
-Ottenere l’approvazione della pianificazione
+## Ottenere l’approvazione della pianificazione
 
 Ottenere l’approvazione della pianificazione e a procedere alla fase di
 esecuzione
 L’approvazione può essere negata se:
-● I costi/benefici non sono ritenuti sufficienti;
-● I rischi di fallimento sono troppo alti;
-● I costi totali previsti per il progetto sono superiori ai fondi disponibili;
-● Ci sono altri progetti che competono per ottenere le stesse risorse;
-● etc…
+
+- I costi/benefici non sono ritenuti sufficienti;
+- I rischi di fallimento sono troppo alti;
+- I costi totali previsti per il progetto sono superiori ai fondi disponibili;
+- Ci sono altri progetti che competono per ottenere le stesse risorse;
+- etc…
 
 Come possono essere evitate queste situazioni?
 
-106
+## Marco A. Boschetti
 
-Marco A. Boschetti
 C.d.S. Ingegneria e Scienze Informatiche
-marco.boschetti@unibo.it
+<marco.boschetti@unibo.it>
 
-https://www.unibo.it/sitoweb/marco.boschetti
-http://isi-personale.csr.unibo.it/marco.boschetti
-
+<https://www.unibo.it/sitoweb/marco.boschetti>
+<http://isi-personale.csr.unibo.it/marco.boschetti>
