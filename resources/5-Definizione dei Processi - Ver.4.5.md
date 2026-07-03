@@ -863,8 +863,6 @@ Metric: 1-3
 
 Some organizations use a 1-5, or 1-10 metric
 
-## Risk Management
-
 Risk Mitigation (mitigazione del rischio)
 
 risk identification
