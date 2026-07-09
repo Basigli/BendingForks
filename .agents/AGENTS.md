@@ -35,7 +35,7 @@ When running `ntn` commands in this workspace to sync with the friend's Notion w
 
 You can find the correct token stored in the `.env` file located in the root of this workspace.
 
-Whenever you need to make an `ntn` command, ALWAYS extract the token from the `.env` file and prepend it to the command (e.g., `NOTION_API_TOKEN="..." ntn pages get ...`), or source the `.env` file first. Do not ask the user for the token again.
+Whenever you need to make an `ntn` command, ALWAYS source the `.env` file first to securely load the token into the environment. The `.env` file includes the `export` keyword, so you can safely run commands like this: `source .env && ntn <command> ...`. Do NOT try to extract and hardcode the token directly into your command line (e.g., `NOTION_API_TOKEN="..." ntn ...`), as this leaks the token and will be rejected by the user. Do not ask the user for the token again.
 
 ---
 

@@ -20,6 +20,8 @@ To interact correctly with this repository using an AI Agent, ensure you have th
 - **[Notion CLI (ntn) Skill](https://github.com/g-mainardi/notion-cli-skill)**: Required to sync and interact with the project's single source of truth on Notion.
   - Install the skill via: `agy plugin install https://github.com/g-mainardi/notion-cli-skill`
   - *(Note: The official `ntn` CLI tool must also be installed in your terminal. Get it from [ntn.dev](https://ntn.dev) or install via `curl -fsSL https://ntn.dev | bash`)*.
+  - **Setup**: In the project root, create a `.env` file and add your Notion API token in this format: `export NOTION_API_TOKEN="your_token_here"`.
+    Use the token for the Notion workspace/page where this project is hosted. The `ntn` CLI reads this variable to authenticate and access Notion.
 - **[Graphify Skill](https://github.com/Graphify-Labs/graphify)**: Required to query codebase relationships and project resources via knowledge graphs.
   - Install via: `agy skill install https://github.com/Graphify-Labs/graphify`
 - **[Humanizer Skill](https://github.com/blader/humanizer)**: Required to refine and humanize AI-generated text outputs.
