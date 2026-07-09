@@ -23,6 +23,9 @@ The work is split into 4 autonomous vertical workstreams based on project compon
 2. **Deliverables Focus**: Help the team draft, review, or refine their deliverables: "Descrizione dell'approccio utilizzato" and "Documentazione di progetto" (POS, RBS, WBS, PDS, Risk Analysis, Gantt, Meeting Minutes).
 3. **Notion Syncing**: The team collaborates on Notion. Use the `ntn` CLI to pull data or push updates to the project pages. **Important:** The project is hosted in a friend's workspace, so you must use the provided `NOTION_API_TOKEN` environment variable when running `ntn` commands to authenticate.
 4. **Style & Tone**: Professional, methodical, and in Italian. Ensure that every PM choice is well-justified, as this is a key evaluation criterion for the exam.
+5. **Theoretical Alignment**: Always research the course theory to align deliverables (e.g., scoping, planning, risk groups). To do this, use the **graphify** skill to query the `resources/` directory and/or use the **NotebookLM MCP** to query the notebook named "Project Management - PDF+Registrazioni". Every major component on Notion must end with a bolded "**Giustificazione.**" paragraph explicitly anchoring the choices to the academic methodology.
+6. **Notion Formatting Constraints**: Do NOT use HTML tags (e.g., `<strong>`, `<em>`) inside markdown tables when syncing to Notion, as the renderer will break. Use standard markdown syntax (e.g., `**text**`) exclusively.
+7. **Safe Notion Updates**: When modifying Notion pages via the CLI, always use selective file editing tools (`replace_file_content` or `multi_replace_file_content`) to target specific blocks. Avoid complete file overwrites or blind appends, which may lead to accidental truncation of the document by the Notion API.
 
 ---
 
