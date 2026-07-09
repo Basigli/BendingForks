@@ -10,3 +10,41 @@ Look in folder `resources` for the course slide decks.
 In `graphify-out/GRAPH_REPORT.md` you can find a graph report.
 
 It's possible to view the graph in a web browser by opening `graphify-out/graph.html`.
+
+## AI Agent Setup
+
+To interact correctly with this repository using an AI Agent, ensure you have the following skills and plugins configured:
+
+### Required Skills
+
+- **[Notion CLI (ntn) Skill](https://github.com/g-mainardi/notion-cli-skill)**: Required to sync and interact with the project's single source of truth on Notion.
+  - Install the skill via: `agy plugin install https://github.com/g-mainardi/notion-cli-skill`
+  - *(Note: The official `ntn` CLI tool must also be installed in your terminal. Get it from [ntn.dev](https://ntn.dev) or install via `curl -fsSL https://ntn.dev | bash`)*.
+- **[Graphify Skill](https://github.com/Graphify-Labs/graphify)**: Required to query codebase relationships and project resources via knowledge graphs.
+  - Install via: `agy skill install https://github.com/Graphify-Labs/graphify`
+- **[Humanizer Skill](https://github.com/blader/humanizer)**: Required to refine and humanize AI-generated text outputs.
+  - Install via: `agy plugin install https://github.com/blader/humanizer`
+
+### MCP Servers
+
+- **NotebookLM MCP Server**: Required to query the academic course materials (e.g., the "Project Management - PDF+Registrazioni" notebook) to theoretically justify PM choices in the documentation.
+  - Setup instructions:
+
+    ```bash
+    # 1. Install the community package using uv (recommended for Python tools) or pipx
+    uv tool install notebooklm-mcp-cli
+    
+    # 2. Authenticate to extract the necessary session cookies from your browser
+    nlm login
+    
+    # 3. Register the MCP server in Antigravity's global configuration
+    # Edit or create the ~/.gemini/config/mcp_config.json file with
+    {
+        "mcpServers": {
+            "notebooklm": {
+            "command": "notebooklm-mcp",
+            "args": []
+            }
+        }
+    }
+    ```
