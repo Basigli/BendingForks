@@ -13,9 +13,17 @@ It's possible to view the graph in a web browser by opening `graphify-out/graph.
 
 ## AI Agent Setup
 
-To interact correctly with this repository using an AI Agent, ensure you have the following skills and plugins configured:
+### Team Workflow & Roles
+
+This project is a university exam simulation divided among 4 students. The repository is shared, but each team member is responsible for a different workstream (Infrastructure, ECM, AI, Adoption). 
+To ensure AI agents assist you only with your specific workload without interfering with others:
+1. Create a `.user_role.md` file in the root of the project (this file is ignored by Git).
+2. Write down your specific role and workstream (e.g., "I am responsible exclusively for the AI Modules").
+3. Agents will automatically read this file to tailor their assistance to your specific deliverables.
 
 ### Required Skills
+
+To interact correctly with this repository using an AI Agent, ensure you have the following skills and plugins configured:
 
 - **[Notion CLI (ntn) Skill](https://github.com/g-mainardi/notion-cli-skill)**: Required to sync and interact with the project's single source of truth on Notion.
   - Install the skill via: `agy plugin install https://github.com/g-mainardi/notion-cli-skill`

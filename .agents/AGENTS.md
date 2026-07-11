@@ -8,14 +8,15 @@
 - **Type**: Project Management Simulation (no actual software implementation is required).
 - **Language**: Italian.
 
-## Team Setup & Parallelization (Vertical Workstreams)
+## Meta-Organization: Student Group vs. BendingForks Simulation
 
-The work is split into 4 autonomous vertical workstreams based on project components to maximize parallelization from Day 1:
+It is **CRITICAL** to distinguish between the simulated company project (BendingForks) and the real-world organization of the students taking the university exam:
 
-1. **Member 1 (Infrastruttura & Sicurezza)**: Leads the setup of on-premise servers and data privacy. Drafts RBS, WBS, and Risks for this stream. Documents the PMLC choice and Scoping Meeting.
-2. **Member 2 (Piattaforma ECM & Migrazione Dati)**: Leads the ECM selection, configuration, and data migration. Drafts RBS, WBS, and Risks for this stream. Documents the JPPS meeting.
-3. **Member 3 (Moduli AI & Ricerca)**: Leads the AI model training for secure search automation. Drafts RBS, WBS, and Risks for this stream. Drafts the theoretical approach for Execution & Monitoring.
-4. **Member 4 (Adozione & Integratore Finale)**: Leads Change Management (training, decommissioning old apps). Drafts RBS, WBS, and Risks for this stream. Acts as the integrator: merges WBS branches into the Gantt chart, drafts Closing, and assembles the final "Descrizione dell'approccio utilizzato".
+- **The Simulation (BendingForks)**: BendingForks is a single entity. The ECM and AI integration project is a cohesive company project.
+- **The Student Group (Reality)**: To divide the workload and document drafting for the exam, the 4 students in the group arbitrarily split the deliverables into 4 vertical workstreams (Infrastructure, ECM, AI, Adoption).
+
+When assisting a user in this workspace, **DO NOT** assume they have to do everything. The user will only be responsible for a specific portion of the work (one of the workstreams).
+**Important**: To discover which workstream is assigned to the current user you are talking to, ALWAYS read the untracked local file `.user_role.md` located in the root of the project. This file will tell you exactly which part (e.g., AI Modules, ECM, etc.) you must focus your assistance on.
 
 ## Agent Guidelines & Rules
 
