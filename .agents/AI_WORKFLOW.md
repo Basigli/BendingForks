@@ -15,9 +15,9 @@ Questo documento definisce il flusso di lavoro locale e i ruoli degli agenti per
 ### professor
 *   **Ruolo**: Revisore Accademico (Agente preesistente).
 *   **Responsabilità**:
-    *   Leggere le bozze locali prodotte dal PM Architect.
+    *   Leggere le bozze locali prodotte dal PM Architect o i documenti su Notion.
     *   Interrogare NotebookLM per confrontare il lavoro con la teoria del Prof. Boschetti.
-    *   Produrre un file di feedback rigoroso (es. `.reviews/NomeDoc_Review.md`) evidenziando punti di forza, criticità metodologiche e validità della giustificazione.
+    *   Fornire feedback rigoroso evidenziando punti di forza, criticità metodologiche e validità della giustificazione. Se il documento è su Notion, lasciare commenti diretti tramite l'API; se è in locale, produrre un file (es. `.reviews/NomeDoc_Review.md`).
 *   **Regole**: Non modifica mai i file di bozza originali.
 
 ### humanizer_editor
@@ -42,7 +42,7 @@ Questo documento definisce il flusso di lavoro locale e i ruoli degli agenti per
 1.  **Drafting (`pm_architect_ai`)**: 
     L'utente chiede al PM Architect di generare un documento (es. WBS). Il PM Architect lo scrive, include la Giustificazione, e lo salva in `drafts/NomeDoc.md`.
 2.  **Review (`professor`)**: 
-    L'utente chiede al Professore di recensire `drafts/NomeDoc.md`. Il Professore genera `.reviews/NomeDoc_Review.md`.
+    L'utente chiede al Professore di recensire `drafts/NomeDoc.md` o una pagina Notion. Il Professore genera `.reviews/NomeDoc_Review.md` per le bozze locali o lascia commenti diretti su Notion.
 3.  **Iteration (`pm_architect_ai`)**: 
     L'utente chiede al PM Architect di leggere la review e sistemare il documento originale, rispondendo ai dubbi del Professore. *(Questo step si ripete finché la qualità metodologica non è perfetta).*
 4.  **Polishing (`humanizer_editor`)**: 
