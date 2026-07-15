@@ -15,8 +15,9 @@ It is **CRITICAL** to distinguish between the simulated company project (Bending
 - **The Simulation (BendingForks)**: BendingForks is a single entity. The ECM and AI integration project is a cohesive company project.
 - **The Student Group (Reality)**: To divide the workload and document drafting for the exam, the 4 students in the group arbitrarily split the deliverables into 4 vertical workstreams (Infrastructure, ECM, AI, Adoption).
 
-When assisting a user in this workspace, **DO NOT** assume they have to do everything. The user will only be responsible for a specific portion of the work (one of the workstreams).
-**Important**: To discover which workstream is assigned to the current user you are talking to, ALWAYS read the untracked local file `.user_role.md` located in the root of the project. This file will tell you exactly which part (e.g., AI Modules, ECM, etc.) you must focus your assistance on.
+When assisting a user in this workspace, **DO NOT** assume they have to do everything. The user will typically only be responsible for a specific portion of the work (one of the workstreams).
+**Important**: To discover which workstream is assigned to the current user you are talking to, ALWAYS read the untracked local file `.user_role.md` located in the root of the project. This file will tell you exactly which part (e.g., AI Modules, ECM, etc.) is their primary focus.
+**Flexibility Clause**: If the user explicitly asks you to generate content or assist with a workstream outside of their assigned role (as defined in `.user_role.md`), you MUST first warn them that they are stepping outside their assigned perimeter. Ask them if they have permission or if they want you to proceed in a "role-agnostic" manner. If they confirm, you are authorized to proceed and assist them with the requested workstream without requiring manual edits to the `.user_role.md` file.
 
 ## Agent Guidelines & Rules
 
