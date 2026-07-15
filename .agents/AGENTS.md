@@ -3,9 +3,9 @@
 ## Project Context
 
 - **Course**: Project Management (Università di Bologna, Prof. Marco A. Boschetti).
-- **Project Case**: "BendingForks" (BF) - Integration of an Enterprise Content Management (ECM) system (on-premise or hybrid) with custom AI modules for search automation.
-- **Goal**: Resolve BF's operational inefficiencies (latency, poor interoperability, long onboarding) while ensuring data privacy (no public AI).
-- **Type**: Project Management Simulation (no actual software implementation is required).
+- **Project Case**: "BendingForks" (BF) - A Milan-based Finance company. The project focuses on the integration of a pre-existing market Enterprise Content Management (ECM) system (on-premise or hybrid) with custom AI modules for search automation, avoiding from-scratch software development. Core activities include platform selection/configuration, AI Agent training, data migration, and decommissioning of legacy systems.
+- **Goal**: Resolve BF's operational inefficiencies (infrastructure unreliability/latency, poor interoperability, and long onboarding/adoption complexity) which cause a loss of ~2 hours/day per employee (~1 million euros/year). The project must ensure data privacy (no financial data on public AI) and mitigate the risk of limited management time by establishing a Steering Committee.
+- **Type**: Project Management Simulation (no actual software implementation is required). It assumes the existing server infrastructure is adequate.
 - **Language**: Italian.
 
 ## Meta-Organization: Student Group vs. BendingForks Simulation
