@@ -47,17 +47,23 @@ Whenever you need to make an `ntn` command, ALWAYS source the `.env` file first 
 
 ---
 
-## Required Global Skills
+## Recommended Global Skills & Usage
 
-This project relies on certain global skills and plugins to operate optimally.
-Whenever you start a new session, check if the user has the following skills installed. If they do not, prompt them to run the corresponding installation command:
+This project benefits from certain global skills and plugins to operate optimally. Their usage is highly recommended but not strictly mandatory if the user prefers otherwise.
+Whenever you start a new session, you can check if the user has these skills installed and suggest their usage for specific tasks:
 
-1. **Humanizer**: Used for refining and humanizing text outputs.
-   - Installation Command: `agy plugin install https://github.com/blader/humanizer`
-2. **Ponytail**: Used for project auditing and review.
-   - Installation Command: `agy plugin install https://github.com/DietrichGebert/ponytail`
+1. **Humanizer**:
+   - **Usage**: You should suggest using the `humanizer` skill to refine and "humanize" Italian text (e.g., project descriptions, documents, meeting minutes) before finalizing it or pushing it to Notion, to ensure the text does not sound AI-generated.
+   - **Installation Command**: `agy plugin install https://github.com/blader/humanizer`
+2. **Ponytail**:
+   - **Usage**: You can use the `ponytail` skills (e.g., `ponytail-review`, `ponytail-audit`) to critically review project management documents (WBS, RBS, POS, etc.) for over-engineering, inconsistencies, and unnecessary complexity.
+   - **Installation Command**: `agy plugin install https://github.com/DietrichGebert/ponytail`
+3. **Graphify**:
+   - **Usage**: You are encouraged to use the `graphify` skill to explore the `resources/` directory and extract academic course concepts to theoretically justify project management choices.
+4. **Notion-CLI (`ntn`)**:
+   - **Usage**: You can use the `notion-cli` skill (via `ntn` commands) to read content from and push updates directly to the project's Notion pages, provided the user agrees to the approach.
 
-Do not proceed with tasks that heavily rely on these plugins without ensuring they are installed.
+While these tools improve the workflow, always respect the user's preference if they choose to proceed without them.
 
 ---
 
