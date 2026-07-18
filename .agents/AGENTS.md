@@ -32,8 +32,7 @@ When assisting a user in this workspace, **DO NOT** assume they have to do every
 5. **Notion Syncing**: The team collaborates on Notion. Use the `ntn` CLI to pull data or push updates to the project pages. **Important:** The project is hosted in a friend's workspace, so you must use the provided `NOTION_API_TOKEN` environment variable when running `ntn` commands to authenticate.
 6. **Style & Tone**: Professional, methodical, and in Italian. Ensure that every PM choice is well-justified, as this is a key evaluation criterion for the exam.
 7. **Theoretical Alignment**: Always research the course theory to align deliverables (e.g., scoping, planning, risk groups). To do this, use the **graphify** skill to query the `resources/` directory and/or use the **NotebookLM MCP** to query the notebook named "Project Management - PDF+Registrazioni". Every major component on Notion must end with a bolded "**Giustificazione.**" paragraph explicitly anchoring the choices to the academic methodology.
-8. **Notion Formatting Constraints**: Do NOT use HTML tags (e.g., `<strong>`, `<em>`) inside markdown tables when syncing to Notion, as the renderer will break. Use standard markdown syntax (e.g., `**text**`) exclusively.
-9. **Safe Notion Updates**: When modifying Notion pages via the CLI, always use selective file editing tools (`replace_file_content` or `multi_replace_file_content`) to target specific blocks. Avoid complete file overwrites or blind appends, which may lead to accidental truncation of the document by the Notion API.
+8. **Notion Syncing Rules**: The team collaborates on Notion via the `notion-cli` skill. Before executing any `ntn` commands, you **MUST read the `notion-cli` SKILL.md** to understand Notion's markdown quirks (like stripping YAML frontmatter) and how to safely update specific blocks via API without truncating the document.
 
 ---
 
@@ -61,7 +60,7 @@ Whenever you start a new session, you can check if the user has these skills ins
 3. **Graphify**:
    - **Usage**: You are encouraged to use the `graphify` skill to explore the `resources/` directory and extract academic course concepts to theoretically justify project management choices.
 4. **Notion-CLI (`ntn`)**:
-   - **Usage**: You can use the `notion-cli` skill (via `ntn` commands) to read content from and push updates directly to the project's Notion pages, provided the user agrees to the approach.
+   - **Usage**: Use for all Notion operations. **MANDATORY**: You must read its `SKILL.md` before proceeding to avoid formatting errors (e.g., YAML frontmatter) or accidental page truncation.
 
 While these tools improve the workflow, always respect the user's preference if they choose to proceed without them.
 
